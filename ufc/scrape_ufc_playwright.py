@@ -5,8 +5,10 @@ from playwright.async_api import async_playwright
 SCHEDULE_URL = "https://www.espn.com/mma/schedule/_/league/ufc"
 
 async def scrape_ufc_schedule(page):
-    await page.goto(SCHEDULE_URL)
-    await page.wait_for_selector('table')
+    await page.set_extra_http_headers({
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    })
+    await page.goto(SCHEDULE_URL, timeout=60000)  # 60 seconds
     events = []
     rows = await page.query_selector_all('table tbody tr')
     for row in rows:
@@ -100,26 +102,29 @@ def label_card_bouts(bouts, card_type='main'):
     return labeled
 
 async def get_ufc_events():
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
-        page = await browser.new_page()
-        events = await scrape_ufc_schedule(page)
-        all_event_data = []
-        for idx, event in enumerate(events):
-            print(f"Scraping event: {event['event_name']} ({event['event_date']})")
-            debug_html = (idx == 0)  # Only save HTML for the first event
-            main_card, prelims = await scrape_event_fightcard(page, event['event_link'], debug_html=debug_html)
-            event_data = {
-                'event_name': event['event_name'],
-                'event_date': event['event_date'],
-                'location': event['location'],
-                'main_card': label_card_bouts(main_card, 'main'),
-                'prelims': label_card_bouts(prelims, 'prelim')
-            }
-            if event_data['main_card'] or event_data['prelims']:
-                all_event_data.append(event_data)
-        await browser.close()
-        return all_event_data
+    try:
+        async with async_playwright() as p:
+            browser = await p.chromium.launch(headless=True)
+            page = await browser.new_page()
+            events = await scrape_ufc_schedule(page)
+            all_event_data = []
+            for idx, event in enumerate(events):
+                print(f"Scraping event: {event['event_name']} ({event['event_date']})")
+                debug_html = (idx == 0)  # Only save HTML for the first event
+                main_card, prelims = await scrape_event_fightcard(page, event['event_link'], debug_html=debug_html)
+                event_data = {
+                    'event_name': event['event_name'],
+                    'event_date': event['event_date'],
+                    'location': event['location'],
+                    'main_card': label_card_bouts(main_card, 'main'),
+                    'prelims': label_card_bouts(prelims, 'prelim')
+                }
+                if event_data['main_card'] or event_data['prelims']:
+                    all_event_data.append(event_data)
+            await browser.close()
+            return all_event_data
+    except Exception as e:
+        return {"error": f"Failed to scrape UFC events: {str(e)}"}
 
 async def main():
     all_event_data = await get_ufc_events()
