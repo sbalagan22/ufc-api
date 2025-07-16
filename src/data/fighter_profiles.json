@@ -1,0 +1,6346 @@
+{
+  "Aaron Pico": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/aaron-pico",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/SHADOW_Fighter_fullLength_RED.png?VersionId=niQpXmYT1tbiETIDAxTsCI5FDbiNt9kI&itok=_gfiLLtV",
+    "finish_stats": {},
+    "physical_stats": {
+      "age": "28"
+    },
+    "combat_stats": {
+      "avg_fight_time": "00:00"
+    },
+    "last_5_fights": []
+  },
+  "Adam Fugitt": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/adam-fugitt",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-08/FUGITT_ADAM_L_07-30.png?itok=zZYce2DW",
+    "finish_stats": {
+      "wins_by_ko": "4",
+      "wins_by_sub": "3",
+      "first_round_finishes": "3"
+    },
+    "physical_stats": {
+      "age": "34",
+      "height": "73.00",
+      "weight": "170.80",
+      "reach": "77.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.72",
+      "sig_str_absorbed_per_min": "4.48",
+      "takedown_avg_per_15min": "2.04",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "52%",
+      "takedown_defense_pct": "50%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "09:13"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "QUINLAN",
+        "date": "Jun. 15, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      },
+      {
+        "opponent": "MALOTT",
+        "date": "Jun. 10, 2023",
+        "round": "2",
+        "time": "1:06",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "KINOSHITA",
+        "date": "Feb. 5, 2023",
+        "round": "1",
+        "time": "4:36",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Alex Perez": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/alex-perez",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/PEREZ_ALEX_L_06-15.png?itok=nwsa47Fk",
+    "finish_stats": {
+      "wins_by_ko": "6",
+      "wins_by_sub": "7",
+      "first_round_finishes": "10"
+    },
+    "physical_stats": {
+      "age": "33",
+      "height": "66.00",
+      "weight": "126.00",
+      "reach": "65.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.19",
+      "sig_str_absorbed_per_min": "3.20",
+      "takedown_avg_per_15min": "2.04",
+      "submission_avg_per_15min": "0.85",
+      "sig_str_defense_pct": "59%",
+      "takedown_defense_pct": "77%",
+      "knockdown_avg": "0.68",
+      "avg_fight_time": "06:47"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "TAIRA",
+        "date": "Jun. 15, 2024",
+        "round": "2",
+        "time": "2:59",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "NICOLAU",
+        "date": "Apr. 27, 2024",
+        "round": "2",
+        "time": "2:16",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "MOKAEV",
+        "date": "Mar. 2, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Alexander Hernandez": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/alexander-hernandez",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/HERNANDEZ_ALEXANDER_L_03-15.png?itok=UHKCdTod",
+    "finish_stats": {
+      "wins_by_ko": "6",
+      "wins_by_sub": "2",
+      "first_round_finishes": "7"
+    },
+    "physical_stats": {
+      "age": "32",
+      "height": "69.00",
+      "weight": "156.00",
+      "reach": "72.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.38",
+      "sig_str_absorbed_per_min": "4.62",
+      "takedown_avg_per_15min": "1.24",
+      "submission_avg_per_15min": "0.10",
+      "sig_str_defense_pct": "57%",
+      "takedown_defense_pct": "72%",
+      "knockdown_avg": "0.38",
+      "avg_fight_time": "10:31"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "HOLOBAUGH",
+        "date": "Mar. 15, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "HUBBARD",
+        "date": "Oct. 5, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      },
+      {
+        "opponent": "JACKSON",
+        "date": "Apr. 6, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Aljamain Sterling": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/aljamain-sterling",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/STERLING_ALJAMAIN_L_04-13.png?itok=tRIA7ClD",
+    "finish_stats": {
+      "wins_by_ko": "3",
+      "wins_by_sub": "8",
+      "first_round_finishes": "4"
+    },
+    "physical_stats": {
+      "age": "35",
+      "height": "67.00",
+      "weight": "145.50",
+      "reach": "71.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.41",
+      "sig_str_absorbed_per_min": "2.21",
+      "takedown_avg_per_15min": "2.51",
+      "submission_avg_per_15min": "0.69",
+      "sig_str_defense_pct": "59%",
+      "takedown_defense_pct": "43%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "13:22"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "EVLOEV",
+        "date": "Dec. 7, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "KATTAR",
+        "date": "Apr. 13, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "O'MALLEY",
+        "date": "Aug. 19, 2023",
+        "round": "2",
+        "time": "0:51",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Amir Albazi": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/amir-albazi",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/ALBAZI_AMIR_L_06-03.png?itok=HQ6_7EVM",
+    "finish_stats": {
+      "wins_by_ko": "5",
+      "wins_by_sub": "9",
+      "first_round_finishes": "9"
+    },
+    "physical_stats": {
+      "age": "31",
+      "height": "65.00",
+      "weight": "125.50",
+      "reach": "68.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "2.72",
+      "sig_str_absorbed_per_min": "3.71",
+      "takedown_avg_per_15min": "1.39",
+      "submission_avg_per_15min": "0.52",
+      "sig_str_defense_pct": "62%",
+      "takedown_defense_pct": "50%",
+      "knockdown_avg": "0.35",
+      "avg_fight_time": "14:25"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "MORENO",
+        "date": "Nov. 2, 2024",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "FRANCE",
+        "date": "Jun. 3, 2023",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      },
+      {
+        "opponent": "COSTA",
+        "date": "Dec. 17, 2022",
+        "round": "3",
+        "time": "2:13",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Andre Lima": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/andre-lima",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/LIMA_ANDRE_L_09-07.png?itok=8tcY5fXF",
+    "finish_stats": {
+      "wins_by_ko": "5",
+      "first_round_finishes": "4"
+    },
+    "physical_stats": {
+      "age": "26",
+      "height": "67.00",
+      "weight": "126.00",
+      "reach": "67.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.06",
+      "sig_str_absorbed_per_min": "2.49",
+      "takedown_avg_per_15min": "1.36",
+      "submission_avg_per_15min": "1.14",
+      "sig_str_defense_pct": "58%",
+      "takedown_defense_pct": "75%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "13:11"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "BAREZ",
+        "date": "Mar. 15, 2025",
+        "round": "3",
+        "time": "3:05",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "DOS SANTOS",
+        "date": "Sep. 7, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "RAPOSO",
+        "date": "Jun. 1, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Andreas Gustafsson": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/andreas-gustafsson",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-06/GUSTAFSSON_ANDREAS_R_06-07.png?itok=aC8jPXU-",
+    "finish_stats": {
+      "wins_by_ko": "8",
+      "wins_by_sub": "2",
+      "first_round_finishes": "3"
+    },
+    "physical_stats": {
+      "age": "34",
+      "height": "73.00",
+      "weight": "170.00",
+      "reach": "73.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "5.83",
+      "sig_str_absorbed_per_min": "2.79",
+      "takedown_avg_per_15min": "6.43",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "46%",
+      "takedown_defense_pct": "100%",
+      "knockdown_avg": "0.64",
+      "avg_fight_time": "11:40"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "WILLIAMS",
+        "date": "Jun. 7, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Andrey Pulyaev": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/andrey-pulyaev",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/PULYAEV_ANDREY_R_03-22.png?itok=9MFu_CgL",
+    "finish_stats": {
+      "wins_by_ko": "5",
+      "wins_by_sub": "2",
+      "first_round_finishes": "5"
+    },
+    "physical_stats": {
+      "age": "27",
+      "height": "76.00",
+      "weight": "185.00",
+      "reach": "78.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.87",
+      "sig_str_absorbed_per_min": "3.93",
+      "takedown_avg_per_15min": "0.50",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "48%",
+      "takedown_defense_pct": "86%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "15:00"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "DUNCAN",
+        "date": "Mar. 22, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Ante Delija": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/ante-delija",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/SHADOW_Fighter_fullLength_RED.png?VersionId=niQpXmYT1tbiETIDAxTsCI5FDbiNt9kI&itok=_gfiLLtV",
+    "finish_stats": {},
+    "physical_stats": {
+      "age": "34",
+      "height": "76.00",
+      "weight": "243.00",
+      "reach": "79.00"
+    },
+    "combat_stats": {
+      "avg_fight_time": "00:00"
+    },
+    "last_5_fights": []
+  },
+  "Anthony Hernandez": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/anthony-hernandez",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/HERNANDEZ_ANTHONY_L_10-19.png?itok=0vImhVP7",
+    "finish_stats": {
+      "wins_by_ko": "3",
+      "wins_by_sub": "8",
+      "first_round_finishes": "5"
+    },
+    "physical_stats": {
+      "age": "31",
+      "height": "72.00",
+      "weight": "186.00",
+      "reach": "75.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.50",
+      "sig_str_absorbed_per_min": "2.61",
+      "takedown_avg_per_15min": "6.27",
+      "submission_avg_per_15min": "1.95",
+      "sig_str_defense_pct": "46%",
+      "takedown_defense_pct": "67%",
+      "knockdown_avg": "0.14",
+      "avg_fight_time": "09:47"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "ALLEN",
+        "date": "Feb. 22, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "PEREIRA",
+        "date": "Oct. 19, 2024",
+        "round": "5",
+        "time": "2:22",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "KOPYLOV",
+        "date": "Feb. 17, 2024",
+        "round": "2",
+        "time": "3:23",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Asu Almabayev": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/asu-almabayev",
+    "profile_image_url": "",
+    "finish_stats": {},
+    "physical_stats": {},
+    "combat_stats": {},
+    "last_5_fights": []
+  },
+  "Ateba Gautier": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/ateba-gautier",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/GAUTIER_ATEBA_R_03-29.png?itok=BlZqDSDO",
+    "finish_stats": {
+      "wins_by_ko": "6",
+      "first_round_finishes": "5"
+    },
+    "physical_stats": {
+      "age": "22",
+      "height": "76.00",
+      "weight": "186.00",
+      "reach": "81.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "6.06",
+      "sig_str_absorbed_per_min": "2.23",
+      "takedown_avg_per_15min": "0.00",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "52%",
+      "takedown_defense_pct": "91%",
+      "knockdown_avg": "2.39",
+      "avg_fight_time": "06:16"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "DANIEL MEDINA",
+        "date": "Mar. 29, 2025",
+        "round": "1",
+        "time": "3:32",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Austen Lane": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/austen-lane",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/LANE_AUSTEN_L_03-01.png?itok=BfNZ7Enk",
+    "finish_stats": {
+      "wins_by_ko": "11",
+      "wins_by_sub": "1",
+      "first_round_finishes": "9"
+    },
+    "physical_stats": {
+      "age": "37",
+      "height": "78.00",
+      "weight": "249.50",
+      "reach": "80.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "2.98",
+      "sig_str_absorbed_per_min": "2.41",
+      "takedown_avg_per_15min": "1.70",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "41%",
+      "takedown_defense_pct": "50%",
+      "knockdown_avg": "0.43",
+      "avg_fight_time": "05:02"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "PINTO",
+        "date": "Mar. 1, 2025",
+        "round": "2",
+        "time": "0:39",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "DESPAIGNE",
+        "date": "Oct. 19, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "DINIZ",
+        "date": "Apr. 27, 2024",
+        "round": "2",
+        "time": "2:12",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Azamat Bekoev": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/azamat-bekoev",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/BEKOEV_AZAMAT_L_01-18.png?itok=VhiMNABy",
+    "finish_stats": {
+      "wins_by_ko": "8",
+      "wins_by_sub": "8",
+      "first_round_finishes": "10"
+    },
+    "physical_stats": {
+      "age": "29",
+      "height": "72.00",
+      "weight": "185.50",
+      "reach": "72.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "7.59",
+      "sig_str_absorbed_per_min": "4.48",
+      "takedown_avg_per_15min": "2.59",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "47%",
+      "takedown_defense_pct": "100%",
+      "knockdown_avg": "5.17",
+      "avg_fight_time": "02:54"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "LODER",
+        "date": "May. 3, 2025",
+        "round": "1",
+        "time": "2:44",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "REESE",
+        "date": "Jan. 18, 2025",
+        "round": "1",
+        "time": "3:04",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Billy Elekana": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/billy-elekana",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/ELEKANA_BILLY_L_01-18.png?itok=8X4MHGpR",
+    "finish_stats": {
+      "wins_by_ko": "3",
+      "wins_by_sub": "1",
+      "first_round_finishes": "3"
+    },
+    "physical_stats": {
+      "age": "29",
+      "height": "75.00",
+      "weight": "200.00",
+      "reach": "77.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "2.34",
+      "sig_str_absorbed_per_min": "5.50",
+      "takedown_avg_per_15min": "1.75",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "34%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "08:33"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "GUSKOV",
+        "date": "Jan. 18, 2025",
+        "round": "",
+        "time": "",
+        "method": "",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Bogdan Guskov": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/bogdan-guskov",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/7/GUSKOV_BOGDAN_L_01-18.png?itok=Zm5tXcQL",
+    "finish_stats": {
+      "wins_by_ko": "14",
+      "wins_by_sub": "3",
+      "first_round_finishes": "12"
+    },
+    "physical_stats": {
+      "age": "32",
+      "height": "75.00",
+      "weight": "205.50",
+      "reach": "76.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.87",
+      "sig_str_absorbed_per_min": "3.40",
+      "takedown_avg_per_15min": "0.00",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "50%",
+      "takedown_defense_pct": "50%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "15:00"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "ELEKANA",
+        "date": "Jan. 18, 2025",
+        "round": "",
+        "time": "",
+        "method": "",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "SPANN",
+        "date": "Apr. 27, 2024",
+        "round": "2",
+        "time": "3:16",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "PAUGA",
+        "date": "Feb. 10, 2024",
+        "round": "1",
+        "time": "3:38",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Bolaji Oki": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/bolaji-oki",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/OKI_BOLAJI_L_05-31.png?itok=2K-x2xQy",
+    "finish_stats": {
+      "wins_by_ko": "5",
+      "wins_by_sub": "1",
+      "first_round_finishes": "4"
+    },
+    "physical_stats": {
+      "age": "29",
+      "height": "70.00",
+      "weight": "155.50",
+      "reach": "73.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "7.05",
+      "sig_str_absorbed_per_min": "4.76",
+      "takedown_avg_per_15min": "1.24",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "62%",
+      "takedown_defense_pct": "86%",
+      "knockdown_avg": "0.41",
+      "avg_fight_time": "09:05"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "ASWELL",
+        "date": "May. 31, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "DUNCAN",
+        "date": "Sep. 28, 2024",
+        "round": "1",
+        "time": "3:34",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "CUAMBA",
+        "date": "Feb. 10, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Brendan Allen": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/brendan-allen",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/ALLEN_BRENDAN_L_02-22.png?itok=0p-Jtrr3",
+    "finish_stats": {
+      "wins_by_ko": "5",
+      "wins_by_sub": "14",
+      "first_round_finishes": "11"
+    },
+    "physical_stats": {
+      "age": "29",
+      "height": "74.00",
+      "weight": "186.00",
+      "reach": "75.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.55",
+      "sig_str_absorbed_per_min": "3.67",
+      "takedown_avg_per_15min": "1.53",
+      "submission_avg_per_15min": "1.28",
+      "sig_str_defense_pct": "46%",
+      "takedown_defense_pct": "57%",
+      "knockdown_avg": "0.34",
+      "avg_fight_time": "10:22"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "HERNANDEZ",
+        "date": "Feb. 22, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "IMAVOV",
+        "date": "Sep. 28, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "CURTIS",
+        "date": "Apr. 6, 2024",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Brian Ortega": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/brian-ortega",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/ORTEGA_BRIAN_L_09-14.png?itok=sGsE9dEx",
+    "finish_stats": {
+      "wins_by_ko": "3",
+      "wins_by_sub": "8",
+      "first_round_finishes": "4"
+    },
+    "physical_stats": {
+      "age": "34",
+      "height": "68.00",
+      "weight": "146.00",
+      "reach": "69.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.08",
+      "sig_str_absorbed_per_min": "6.59",
+      "takedown_avg_per_15min": "1.07",
+      "submission_avg_per_15min": "1.07",
+      "sig_str_defense_pct": "50%",
+      "takedown_defense_pct": "56%",
+      "knockdown_avg": "0.45",
+      "avg_fight_time": "12:57"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "LOPES",
+        "date": "Sep. 14, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "RODRIGUEZ",
+        "date": "Feb. 24, 2024",
+        "round": "3",
+        "time": "0:58",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "RODRIGUEZ",
+        "date": "Jul. 16, 2022",
+        "round": "1",
+        "time": "4:11",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Brunno Ferreira": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/brunno-ferreira",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/FERREIRA_BRUNNO_L_03-08.png?itok=rmnFJtna",
+    "finish_stats": {
+      "wins_by_ko": "9",
+      "wins_by_sub": "4",
+      "first_round_finishes": "10"
+    },
+    "physical_stats": {
+      "age": "32",
+      "height": "70.00",
+      "weight": "186.00",
+      "reach": "72.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.54",
+      "sig_str_absorbed_per_min": "3.54",
+      "takedown_avg_per_15min": "1.14",
+      "submission_avg_per_15min": "0.76",
+      "sig_str_defense_pct": "50%",
+      "takedown_defense_pct": "54%",
+      "knockdown_avg": "1.52",
+      "avg_fight_time": "05:39"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "PETROSYAN",
+        "date": "Mar. 8, 2025",
+        "round": "2",
+        "time": "4:27",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "MAGOMEDOV",
+        "date": "Oct. 26, 2024",
+        "round": "3",
+        "time": "3:14",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "STOLTZFUS",
+        "date": "Jun. 8, 2024",
+        "round": "1",
+        "time": "4:51",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Bryan Battle": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/bryan-battle",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-03/BATTLE_BRYAN_L_03-16.png?itok=Mh5I5kVP",
+    "finish_stats": {
+      "wins_by_ko": "4",
+      "wins_by_sub": "6",
+      "first_round_finishes": "3"
+    },
+    "physical_stats": {
+      "age": "30",
+      "height": "73.00",
+      "weight": "175.00",
+      "reach": "77.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "5.12",
+      "sig_str_absorbed_per_min": "4.11",
+      "takedown_avg_per_15min": "0.77",
+      "submission_avg_per_15min": "0.39",
+      "sig_str_defense_pct": "44%",
+      "takedown_defense_pct": "54%",
+      "knockdown_avg": "0.39",
+      "avg_fight_time": "08:37"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "BROWN",
+        "date": "Dec. 7, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      },
+      {
+        "opponent": "JOUSSET",
+        "date": "Sep. 28, 2024",
+        "round": "2",
+        "time": "3:47",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "LOOSA",
+        "date": "Mar. 16, 2024",
+        "round": "2",
+        "time": "1:00",
+        "method": "COULD NOT CONTINUE",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Bryce Mitchell": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/bryce-mitchell",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-04/MITCHELL_BRYCE_L_04-12.png?itok=2Xmbciyp",
+    "finish_stats": {
+      "wins_by_ko": "1",
+      "wins_by_sub": "9",
+      "first_round_finishes": "8"
+    },
+    "physical_stats": {
+      "age": "30",
+      "height": "70.00",
+      "weight": "146.00",
+      "reach": "70.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "2.44",
+      "sig_str_absorbed_per_min": "1.64",
+      "takedown_avg_per_15min": "3.27",
+      "submission_avg_per_15min": "1.33",
+      "sig_str_defense_pct": "60%",
+      "takedown_defense_pct": "33%",
+      "knockdown_avg": "0.12",
+      "avg_fight_time": "11:16"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "SILVA",
+        "date": "Apr. 12, 2025",
+        "round": "2",
+        "time": "3:52",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "GRACIE",
+        "date": "Dec. 7, 2024",
+        "round": "3",
+        "time": "0:39",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "EMMETT",
+        "date": "Dec. 16, 2023",
+        "round": "1",
+        "time": "1:57",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Caio Borralho": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/caio-borralho",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/BORRALHO_CAIO_L_08-24.png?itok=Y6MA8hlK",
+    "finish_stats": {
+      "wins_by_ko": "5",
+      "wins_by_sub": "4"
+    },
+    "physical_stats": {
+      "age": "32",
+      "height": "73.50",
+      "weight": "186.00",
+      "reach": "75.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.61",
+      "sig_str_absorbed_per_min": "2.34",
+      "takedown_avg_per_15min": "1.56",
+      "submission_avg_per_15min": "0.52",
+      "sig_str_defense_pct": "63%",
+      "takedown_defense_pct": "77%",
+      "knockdown_avg": "0.52",
+      "avg_fight_time": "12:51"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "CANNONIER",
+        "date": "Aug. 24, 2024",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "CRAIG",
+        "date": "May. 4, 2024",
+        "round": "2",
+        "time": "2:10",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "MAGOMEDOV",
+        "date": "Nov. 4, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Calvin Kattar": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/calvin-kattar",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/KATTAR_CALVIN_L_04-13.png?itok=WjVq3d9q",
+    "finish_stats": {
+      "wins_by_ko": "11",
+      "wins_by_sub": "2",
+      "first_round_finishes": "10"
+    },
+    "physical_stats": {
+      "age": "37",
+      "height": "71.00",
+      "weight": "146.00",
+      "reach": "72.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.60",
+      "sig_str_absorbed_per_min": "6.62",
+      "takedown_avg_per_15min": "0.36",
+      "submission_avg_per_15min": "0.07",
+      "sig_str_defense_pct": "54%",
+      "takedown_defense_pct": "77%",
+      "knockdown_avg": "0.36",
+      "avg_fight_time": "14:46"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "ZALAL",
+        "date": "Feb. 15, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "STERLING",
+        "date": "Apr. 13, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "ALLEN",
+        "date": "Oct. 29, 2022",
+        "round": "2",
+        "time": "0:08",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Carli Judice": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/carli-judice",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-06/JUDICE_CARLI_L_06-15.png?itok=p4VD5lnn",
+    "finish_stats": {
+      "wins_by_ko": "4",
+      "first_round_finishes": "4"
+    },
+    "physical_stats": {
+      "age": "26",
+      "height": "67.00",
+      "weight": "125.00",
+      "reach": "68.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "11.18",
+      "sig_str_absorbed_per_min": "10.01",
+      "takedown_avg_per_15min": "0.95",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "53%",
+      "takedown_defense_pct": "70%",
+      "knockdown_avg": "0.47",
+      "avg_fight_time": "10:33"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "DUBEN",
+        "date": "Mar. 15, 2025",
+        "round": "1",
+        "time": "1:40",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "FERNANDES",
+        "date": "Jun. 15, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Charles Johnson": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/charles-johnson",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/JOHNSON_CHARLES_L_03-01.png?itok=UMpHSKSc",
+    "finish_stats": {
+      "wins_by_ko": "7",
+      "wins_by_sub": "3",
+      "first_round_finishes": "4"
+    },
+    "physical_stats": {
+      "age": "34",
+      "height": "69.00",
+      "weight": "125.00",
+      "reach": "70.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.74",
+      "sig_str_absorbed_per_min": "3.62",
+      "takedown_avg_per_15min": "0.50",
+      "submission_avg_per_15min": "0.40",
+      "sig_str_defense_pct": "58%",
+      "takedown_defense_pct": "67%",
+      "knockdown_avg": "0.30",
+      "avg_fight_time": "13:38"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "TEMIROV",
+        "date": "Mar. 1, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "MUDAERJI",
+        "date": "Oct. 19, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "VAN",
+        "date": "Jul. 13, 2024",
+        "round": "3",
+        "time": "0:20",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Chase Hooper": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/chase-hooper",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/HOOPER_CHASE_L_05-11.png?itok=K5Mv3gQM",
+    "finish_stats": {
+      "wins_by_ko": "4",
+      "wins_by_sub": "8",
+      "first_round_finishes": "6"
+    },
+    "physical_stats": {
+      "age": "25",
+      "height": "73.00",
+      "weight": "156.00",
+      "reach": "74.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.53",
+      "sig_str_absorbed_per_min": "2.96",
+      "takedown_avg_per_15min": "2.59",
+      "submission_avg_per_15min": "2.22",
+      "sig_str_defense_pct": "39%",
+      "takedown_defense_pct": "55%",
+      "knockdown_avg": "0.12",
+      "avg_fight_time": "10:09"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "MILLER",
+        "date": "Apr. 12, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "GUIDA",
+        "date": "Dec. 7, 2024",
+        "round": "1",
+        "time": "3:41",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "BORSHCHEV",
+        "date": "May. 11, 2024",
+        "round": "2",
+        "time": "3:00",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Chidi Njokuani": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/chidi-njokuani",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-08/NJOKUANI_CHIDI_L.png?itok=QlUjL6wY",
+    "finish_stats": {
+      "wins_by_ko": "15",
+      "wins_by_sub": "1",
+      "first_round_finishes": "10"
+    },
+    "physical_stats": {
+      "age": "36",
+      "height": "75.00",
+      "weight": "170.00",
+      "reach": "80.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.72",
+      "sig_str_absorbed_per_min": "2.64",
+      "takedown_avg_per_15min": "0.00",
+      "submission_avg_per_15min": "0.16",
+      "sig_str_defense_pct": "57%",
+      "takedown_defense_pct": "75%",
+      "knockdown_avg": "0.63",
+      "avg_fight_time": "09:28"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "DOS SANTOS",
+        "date": "Mar. 15, 2025",
+        "round": "2",
+        "time": "2:19",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "GOODEN",
+        "date": "Oct. 12, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "MCKEE",
+        "date": "Mar. 30, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Chris Curtis": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/chris-curtis",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/12/CURTIS_CHRIS_L_01-11.png?itok=TUnJ7cGL",
+    "finish_stats": {
+      "wins_by_ko": "17",
+      "wins_by_sub": "1",
+      "first_round_finishes": "7"
+    },
+    "physical_stats": {
+      "age": "37",
+      "height": "70.00",
+      "weight": "185.50",
+      "reach": "75.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "6.16",
+      "sig_str_absorbed_per_min": "6.43",
+      "takedown_avg_per_15min": "0.00",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "54%",
+      "takedown_defense_pct": "83%",
+      "knockdown_avg": "0.43",
+      "avg_fight_time": "12:38"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "KOPYLOV",
+        "date": "Jan. 11, 2025",
+        "round": "3",
+        "time": "4:59",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "ALLEN",
+        "date": "Apr. 6, 2024",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "BARRIAULT",
+        "date": "Jan. 20, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Dan Ige": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/dan-ige",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-04/IGE_DAN_L_04-12.png?itok=98BLEYMz",
+    "finish_stats": {
+      "wins_by_ko": "7",
+      "wins_by_sub": "5",
+      "first_round_finishes": "7"
+    },
+    "physical_stats": {
+      "age": "33",
+      "height": "67.00",
+      "weight": "146.00",
+      "reach": "71.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.67",
+      "sig_str_absorbed_per_min": "3.55",
+      "takedown_avg_per_15min": "0.94",
+      "submission_avg_per_15min": "0.24",
+      "sig_str_defense_pct": "57%",
+      "takedown_defense_pct": "58%",
+      "knockdown_avg": "0.47",
+      "avg_fight_time": "12:42"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "WOODSON",
+        "date": "Apr. 12, 2025",
+        "round": "3",
+        "time": "1:12",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "MURPHY",
+        "date": "Oct. 26, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "LOPES",
+        "date": "Jun. 29, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Daniel Zellhuber": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/daniel-zellhuber",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-09/ZELLHUBER_DANIEL_L_09-14.png?itok=Knl_LW21",
+    "finish_stats": {
+      "wins_by_ko": "7",
+      "wins_by_sub": "3",
+      "first_round_finishes": "5"
+    },
+    "physical_stats": {
+      "age": "25",
+      "height": "73.00",
+      "weight": "155.00",
+      "reach": "77.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "6.26",
+      "sig_str_absorbed_per_min": "6.02",
+      "takedown_avg_per_15min": "0.18",
+      "submission_avg_per_15min": "0.18",
+      "sig_str_defense_pct": "56%",
+      "takedown_defense_pct": "94%",
+      "knockdown_avg": "0.36",
+      "avg_fight_time": "13:54"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "RIBOVICS",
+        "date": "Sep. 14, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "PRADO",
+        "date": "Feb. 24, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "GIAGOS",
+        "date": "Sep. 16, 2023",
+        "round": "2",
+        "time": "3:26",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Derrick Lewis": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/derrick-lewis",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/LEWIS_DERRICK_L_11-02.png?itok=rNRrwiBs",
+    "finish_stats": {
+      "wins_by_ko": "23",
+      "first_round_finishes": "9"
+    },
+    "physical_stats": {
+      "age": "40",
+      "height": "75.00",
+      "weight": "266.00",
+      "reach": "79.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "2.48",
+      "sig_str_absorbed_per_min": "2.48",
+      "takedown_avg_per_15min": "0.57",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "41%",
+      "takedown_defense_pct": "53%",
+      "knockdown_avg": "0.57",
+      "avg_fight_time": "09:09"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "NASCIMENTO",
+        "date": "May. 11, 2024",
+        "round": "3",
+        "time": "0:49",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "ALMEIDA",
+        "date": "Nov. 4, 2023",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "DE LIMA",
+        "date": "Jul. 29, 2023",
+        "round": "1",
+        "time": "0:33",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Diego Ferreira": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/diego-ferreira",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/FERREIRA_DIEGO_L_01-18.png?itok=DbqewWtG",
+    "finish_stats": {
+      "wins_by_ko": "5",
+      "wins_by_sub": "7",
+      "first_round_finishes": "4"
+    },
+    "physical_stats": {
+      "age": "40",
+      "height": "69.00",
+      "weight": "156.00",
+      "reach": "74.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.82",
+      "sig_str_absorbed_per_min": "3.46",
+      "takedown_avg_per_15min": "0.86",
+      "submission_avg_per_15min": "0.58",
+      "sig_str_defense_pct": "56%",
+      "takedown_defense_pct": "58%",
+      "knockdown_avg": "0.29",
+      "avg_fight_time": "09:46"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "DAWSON",
+        "date": "Jan. 18, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "REBECKI",
+        "date": "May. 11, 2024",
+        "round": "3",
+        "time": "4:51",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "JOHNSON",
+        "date": "May. 20, 2023",
+        "round": "2",
+        "time": "1:50",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Diego Lopes": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/diego-lopes",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/LOPES_DIEGO_L_09-14.png?itok=M6HzRIKZ",
+    "finish_stats": {
+      "wins_by_ko": "10",
+      "wins_by_sub": "12",
+      "first_round_finishes": "15"
+    },
+    "physical_stats": {
+      "age": "30",
+      "height": "71.00",
+      "weight": "145.00",
+      "reach": "72.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.70",
+      "sig_str_absorbed_per_min": "4.76",
+      "takedown_avg_per_15min": "0.35",
+      "submission_avg_per_15min": "1.95",
+      "sig_str_defense_pct": "47%",
+      "takedown_defense_pct": "68%",
+      "knockdown_avg": "0.71",
+      "avg_fight_time": "10:36"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "VOLKANOVSKI",
+        "date": "Apr. 12, 2025",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "ORTEGA",
+        "date": "Sep. 14, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "IGE",
+        "date": "Jun. 29, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Diyar Nurgozhay": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/diyar-nurgozhay",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/NURGOZHAY_DIYAR_L_03-15.png?itok=fHSfBJUF",
+    "finish_stats": {
+      "wins_by_ko": "6",
+      "wins_by_sub": "2",
+      "first_round_finishes": "7"
+    },
+    "physical_stats": {
+      "age": "27",
+      "height": "74.00",
+      "weight": "210.50",
+      "reach": "74.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.13",
+      "sig_str_absorbed_per_min": "3.40",
+      "takedown_avg_per_15min": "2.00",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "60%",
+      "takedown_defense_pct": "100%",
+      "knockdown_avg": "1.00",
+      "avg_fight_time": "07:30"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "RIBEIRO",
+        "date": "Mar. 15, 2025",
+        "round": "2",
+        "time": "1:28",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Drakkar Klose": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/drakkar-klose",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-11/KLOSE_DRAKKAR_L_12-02.png?itok=dzoXPwS-",
+    "finish_stats": {
+      "wins_by_ko": "6",
+      "first_round_finishes": "3"
+    },
+    "physical_stats": {
+      "age": "36",
+      "height": "69.00",
+      "weight": "156.00",
+      "reach": "70.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.33",
+      "sig_str_absorbed_per_min": "3.54",
+      "takedown_avg_per_15min": "1.65",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "50%",
+      "takedown_defense_pct": "69%",
+      "knockdown_avg": "0.22",
+      "avg_fight_time": "11:20"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "ALVAREZ",
+        "date": "Dec. 14, 2024",
+        "round": "1",
+        "time": "2:48",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "SILVA",
+        "date": "May. 4, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "SOLECKI",
+        "date": "Dec. 2, 2023",
+        "round": "1",
+        "time": "1:41",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Dricus Du Plessis": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/dricus-du-plessis",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/DU_PLESSIS_DRICUS_L_BELT_02-08.png?itok=bUksExyJ",
+    "finish_stats": {
+      "wins_by_ko": "9",
+      "wins_by_sub": "11"
+    },
+    "physical_stats": {
+      "age": "31",
+      "height": "73.00",
+      "weight": "185.00",
+      "reach": "76.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "6.12",
+      "sig_str_absorbed_per_min": "4.90",
+      "takedown_avg_per_15min": "2.55",
+      "submission_avg_per_15min": "0.73",
+      "sig_str_defense_pct": "54%",
+      "takedown_defense_pct": "50%",
+      "knockdown_avg": "0.48",
+      "avg_fight_time": "13:45"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "DU PLESSIS",
+        "date": "Feb. 8, 2025",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "DU PLESSIS",
+        "date": "Aug. 17, 2024",
+        "round": "4",
+        "time": "3:38",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "STRICKLAND",
+        "date": "Jan. 20, 2024",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Dustin Poirier": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/dustin-poirier",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/POIRIER_DUSTIN_L_06-01.png?itok=uFhwvBXJ",
+    "finish_stats": {
+      "wins_by_ko": "16",
+      "wins_by_sub": "7",
+      "first_round_finishes": "13"
+    },
+    "physical_stats": {
+      "age": "36",
+      "height": "69.00",
+      "weight": "155.00",
+      "reach": "72.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "5.30",
+      "sig_str_absorbed_per_min": "4.33",
+      "takedown_avg_per_15min": "1.24",
+      "submission_avg_per_15min": "1.28",
+      "sig_str_defense_pct": "53%",
+      "takedown_defense_pct": "64%",
+      "knockdown_avg": "0.62",
+      "avg_fight_time": "10:17"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "MAKHACHEV",
+        "date": "Jun. 1, 2024",
+        "round": "5",
+        "time": "2:42",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "SAINT DENIS",
+        "date": "Mar. 9, 2024",
+        "round": "2",
+        "time": "2:32",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "GAETHJE",
+        "date": "Jul. 29, 2023",
+        "round": "2",
+        "time": "1:00",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Edson Barboza": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/edson-barboza",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/BARBOZA_EDSON_L_05-18.png?itok=llaWxDHe",
+    "finish_stats": {
+      "wins_by_ko": "14",
+      "first_round_finishes": "8"
+    },
+    "physical_stats": {
+      "age": "39",
+      "height": "71.00",
+      "weight": "145.50",
+      "reach": "75.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.11",
+      "sig_str_absorbed_per_min": "4.65",
+      "takedown_avg_per_15min": "0.45",
+      "submission_avg_per_15min": "0.08",
+      "sig_str_defense_pct": "56%",
+      "takedown_defense_pct": "73%",
+      "knockdown_avg": "0.66",
+      "avg_fight_time": "12:12"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "MURPHY",
+        "date": "May. 18, 2024",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "YUSUFF",
+        "date": "Oct. 14, 2023",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "QUARANTILLO",
+        "date": "Apr. 15, 2023",
+        "round": "1",
+        "time": "2:37",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Eduarda Moura": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/eduarda-moura",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/MOURA_EDUARDA_L_06-08.png?itok=JSf440_H",
+    "finish_stats": {
+      "wins_by_ko": "4",
+      "wins_by_sub": "5",
+      "first_round_finishes": "7"
+    },
+    "physical_stats": {
+      "age": "30",
+      "height": "66.00",
+      "weight": "125.20",
+      "reach": "67.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "2.60",
+      "sig_str_absorbed_per_min": "2.45",
+      "takedown_avg_per_15min": "4.37",
+      "submission_avg_per_15min": "0.36",
+      "sig_str_defense_pct": "53%",
+      "takedown_defense_pct": "100%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "10:19"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "MACEDO",
+        "date": "Nov. 16, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "GOMES",
+        "date": "Jun. 8, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "RUIZ",
+        "date": "Nov. 4, 2023",
+        "round": "2",
+        "time": "2:14",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Elijah Smith": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/elijah-smith",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/SMITH_ELIJAH_R_02-15.png?itok=VpBb8JRG",
+    "finish_stats": {
+      "wins_by_ko": "4",
+      "wins_by_sub": "1",
+      "first_round_finishes": "3"
+    },
+    "physical_stats": {
+      "age": "22",
+      "height": "69.00",
+      "weight": "135.50",
+      "reach": "71.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.83",
+      "sig_str_absorbed_per_min": "3.87",
+      "takedown_avg_per_15min": "4.00",
+      "submission_avg_per_15min": "1.00",
+      "sig_str_defense_pct": "48%",
+      "takedown_defense_pct": "67%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "15:00"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "MORALES",
+        "date": "Feb. 15, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Fatima Kline": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/fatima-kline",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/10/KLINE_FATIMA_L_01-11.png?itok=CoBl3mrE",
+    "finish_stats": {
+      "wins_by_ko": "3",
+      "wins_by_sub": "1",
+      "first_round_finishes": "1"
+    },
+    "physical_stats": {
+      "age": "24",
+      "height": "66.00",
+      "weight": "116.00",
+      "reach": "67.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "2.21",
+      "sig_str_absorbed_per_min": "1.68",
+      "takedown_avg_per_15min": "1.84",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "55%",
+      "takedown_defense_pct": "50%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "12:14"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "DUDAKOVA",
+        "date": "Jan. 11, 2025",
+        "round": "2",
+        "time": "4:27",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "JASUDAVICIUS",
+        "date": "Jul. 13, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Felipe Bunes": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/felipe-bunes",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/2/BUNES_FELIPE_L_01-11.png?itok=fVpbOtaM",
+    "finish_stats": {
+      "wins_by_ko": "2",
+      "wins_by_sub": "9",
+      "first_round_finishes": "9"
+    },
+    "physical_stats": {
+      "age": "35",
+      "height": "67.00",
+      "weight": "126.00",
+      "reach": "69.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.49",
+      "sig_str_absorbed_per_min": "7.86",
+      "takedown_avg_per_15min": "2.59",
+      "submission_avg_per_15min": "2.59",
+      "sig_str_defense_pct": "41%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "05:48"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "JOHNSON",
+        "date": "Jan. 11, 2025",
+        "round": "1",
+        "time": "2:04",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "VAN",
+        "date": "Jan. 13, 2024",
+        "round": "2",
+        "time": "4:31",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Gabriel Bonfim": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/gabriel-bonfim",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-07/BONFIM_GABRIEL_L_07_25.png?itok=MTk8oenG",
+    "finish_stats": {
+      "wins_by_ko": "3",
+      "wins_by_sub": "13",
+      "first_round_finishes": "8"
+    },
+    "physical_stats": {
+      "age": "27",
+      "height": "73.00",
+      "weight": "170.00",
+      "reach": "72.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "5.22",
+      "sig_str_absorbed_per_min": "3.80",
+      "takedown_avg_per_15min": "3.68",
+      "submission_avg_per_15min": "2.21",
+      "sig_str_defense_pct": "65%",
+      "takedown_defense_pct": "73%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "06:48"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "WILLIAMS",
+        "date": "Feb. 15, 2025",
+        "round": "2",
+        "time": "4:58",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "LOOSA",
+        "date": "Jul. 13, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "DALBY",
+        "date": "Nov. 4, 2023",
+        "round": "2",
+        "time": "4:33",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Gabriella Fernandes": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/gabriella-fernandes",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-02/FERNANDES_GABRIELLA_L_02-25.png?itok=9R0K_hKW",
+    "finish_stats": {
+      "wins_by_ko": "3",
+      "wins_by_sub": "3",
+      "first_round_finishes": "1"
+    },
+    "physical_stats": {
+      "age": "31",
+      "height": "66.00",
+      "weight": "126.00",
+      "reach": "66.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.46",
+      "sig_str_absorbed_per_min": "5.50",
+      "takedown_avg_per_15min": "0.56",
+      "submission_avg_per_15min": "0.28",
+      "sig_str_defense_pct": "50%",
+      "takedown_defense_pct": "61%",
+      "knockdown_avg": "0.28",
+      "avg_fight_time": "13:27"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "CONG",
+        "date": "Nov. 23, 2024",
+        "round": "2",
+        "time": "3:49",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "JUDICE",
+        "date": "Jun. 15, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      },
+      {
+        "opponent": "BLEDA",
+        "date": "Jun. 17, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Gerald Meerschaert": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/gerald-meerschaert",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/MEERSCHAERT_GERALD_L_11-09.png?itok=Z0Xq8CoK",
+    "finish_stats": {
+      "wins_by_ko": "6",
+      "wins_by_sub": "29",
+      "first_round_finishes": "15"
+    },
+    "physical_stats": {
+      "age": "37",
+      "height": "73.00",
+      "weight": "185.00",
+      "reach": "77.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.05",
+      "sig_str_absorbed_per_min": "3.43",
+      "takedown_avg_per_15min": "1.86",
+      "submission_avg_per_15min": "1.41",
+      "sig_str_defense_pct": "54%",
+      "takedown_defense_pct": "43%",
+      "knockdown_avg": "0.22",
+      "avg_fight_time": "08:47"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "TAVARES",
+        "date": "Apr. 5, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "DE RIDDER",
+        "date": "Nov. 9, 2024",
+        "round": "3",
+        "time": "1:44",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "SHAHBAZYAN",
+        "date": "Aug. 24, 2024",
+        "round": "2",
+        "time": "4:12",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Gunnar Nelson": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/gunnar-nelson",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/NELSON_GUNNAR_L_03-22.png?itok=FrZrkmBj",
+    "finish_stats": {
+      "wins_by_ko": "4",
+      "wins_by_sub": "13",
+      "first_round_finishes": "12"
+    },
+    "physical_stats": {
+      "age": "36",
+      "height": "71.00",
+      "weight": "170.00",
+      "reach": "72.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "1.77",
+      "sig_str_absorbed_per_min": "3.06",
+      "takedown_avg_per_15min": "2.00",
+      "submission_avg_per_15min": "1.00",
+      "sig_str_defense_pct": "49%",
+      "takedown_defense_pct": "68%",
+      "knockdown_avg": "0.09",
+      "avg_fight_time": "10:20"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "HOLLAND",
+        "date": "Mar. 22, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "BARBERENA",
+        "date": "Mar. 18, 2023",
+        "round": "1",
+        "time": "4:51",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "SATO",
+        "date": "Mar. 19, 2022",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Ibo Aslan": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/ibo-aslan",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/2/ASLAN_IBO_L_10-26.png?itok=z5QyqLVe",
+    "finish_stats": {
+      "wins_by_ko": "14",
+      "first_round_finishes": "12"
+    },
+    "physical_stats": {
+      "age": "28",
+      "height": "75.00",
+      "weight": "205.00",
+      "reach": "77.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "7.84",
+      "sig_str_absorbed_per_min": "4.43",
+      "takedown_avg_per_15min": "0.00",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "63%",
+      "takedown_defense_pct": "83%",
+      "knockdown_avg": "1.70",
+      "avg_fight_time": "04:24"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "CUTELABA",
+        "date": "Feb. 22, 2025",
+        "round": "1",
+        "time": "2:51",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "CERQUEIRA",
+        "date": "Oct. 26, 2024",
+        "round": "1",
+        "time": "0:51",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "TURKALJ",
+        "date": "Mar. 30, 2024",
+        "round": "3",
+        "time": "1:32",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Ikram Aliskerov": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/ikram-aliskerov",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-04/ALISKEROV_IKRAM_L_04-26.png?itok=JT1QSnRe",
+    "finish_stats": {
+      "wins_by_ko": "7",
+      "wins_by_sub": "5",
+      "first_round_finishes": "8"
+    },
+    "physical_stats": {
+      "age": "32",
+      "height": "72.00",
+      "weight": "185.50",
+      "reach": "76.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "7.76",
+      "sig_str_absorbed_per_min": "5.78",
+      "takedown_avg_per_15min": "1.14",
+      "submission_avg_per_15min": "1.14",
+      "sig_str_defense_pct": "42%",
+      "takedown_defense_pct": "100%",
+      "knockdown_avg": "3.42",
+      "avg_fight_time": "02:38"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "MUNIZ",
+        "date": "Apr. 26, 2025",
+        "round": "1",
+        "time": "4:54",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "WHITTAKER",
+        "date": "Jun. 22, 2024",
+        "round": "1",
+        "time": "1:49",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "ALVES",
+        "date": "Oct. 21, 2023",
+        "round": "1",
+        "time": "2:07",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Islam Dulatov": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/islam-dulatov",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/DULATOV_ISLAM_R_10-08.png?itok=w96zr-08",
+    "finish_stats": {},
+    "physical_stats": {
+      "age": "26",
+      "weight": "171.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "14.27",
+      "sig_str_absorbed_per_min": "5.49",
+      "takedown_avg_per_15min": "5.49",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "52%",
+      "knockdown_avg": "5.49",
+      "avg_fight_time": "02:44"
+    },
+    "last_5_fights": []
+  },
+  "JJ Aldrich": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/jj-aldrich",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/ALDRICH_JJ_L_05-11.png?itok=btLZsbxb",
+    "finish_stats": {
+      "wins_by_ko": "3",
+      "first_round_finishes": "2"
+    },
+    "physical_stats": {
+      "age": "32",
+      "height": "65.00",
+      "weight": "126.00",
+      "reach": "67.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.96",
+      "sig_str_absorbed_per_min": "4.32",
+      "takedown_avg_per_15min": "0.75",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "61%",
+      "takedown_defense_pct": "68%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "13:47"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "LEE",
+        "date": "Mar. 1, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "MACEDO",
+        "date": "May. 11, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "DE LA ROSA",
+        "date": "Oct. 7, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Jake Matthews": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/jake-matthews",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/MATTHEWS_JAKE_L_02-08.png?itok=dRJnOCSN",
+    "finish_stats": {
+      "wins_by_ko": "6",
+      "wins_by_sub": "7",
+      "first_round_finishes": "3"
+    },
+    "physical_stats": {
+      "age": "30",
+      "height": "71.50",
+      "weight": "170.50",
+      "reach": "73.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.45",
+      "sig_str_absorbed_per_min": "2.63",
+      "takedown_avg_per_15min": "1.46",
+      "submission_avg_per_15min": "0.55",
+      "sig_str_defense_pct": "61%",
+      "takedown_defense_pct": "68%",
+      "knockdown_avg": "0.30",
+      "avg_fight_time": "11:44"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "PRADO",
+        "date": "Feb. 8, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "ROWE",
+        "date": "Jun. 1, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "MORALES",
+        "date": "Nov. 18, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Jared Cannonier": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/jared-cannonier",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/CANNONIER_JARED_L_02-15.png?itok=rGmkxxuU",
+    "finish_stats": {
+      "wins_by_ko": "11",
+      "wins_by_sub": "2",
+      "first_round_finishes": "7"
+    },
+    "physical_stats": {
+      "age": "41",
+      "height": "71.00",
+      "weight": "185.50",
+      "reach": "77.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.60",
+      "sig_str_absorbed_per_min": "4.49",
+      "takedown_avg_per_15min": "0.46",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "57%",
+      "takedown_defense_pct": "64%",
+      "knockdown_avg": "0.40",
+      "avg_fight_time": "13:51"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "RODRIGUES",
+        "date": "Feb. 15, 2025",
+        "round": "4",
+        "time": "0:21",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "BORRALHO",
+        "date": "Aug. 24, 2024",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "IMAVOV",
+        "date": "Jun. 8, 2024",
+        "round": "4",
+        "time": "1:34",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Jean Matsumoto": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/jean-matsumoto",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/7/MATSUMOTO_JEAN_L_04-06.png?itok=Rtm4jikr",
+    "finish_stats": {
+      "wins_by_ko": "3",
+      "wins_by_sub": "6",
+      "first_round_finishes": "2"
+    },
+    "physical_stats": {
+      "age": "25",
+      "height": "66.00",
+      "weight": "139.00",
+      "reach": "68.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "5.18",
+      "sig_str_absorbed_per_min": "5.40",
+      "takedown_avg_per_15min": "2.73",
+      "submission_avg_per_15min": "0.27",
+      "sig_str_defense_pct": "46%",
+      "takedown_defense_pct": "58%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "13:45"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "FONT",
+        "date": "Feb. 22, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "KATONA",
+        "date": "Oct. 19, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "ARGUETA",
+        "date": "Apr. 6, 2024",
+        "round": "2",
+        "time": "4:59",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Jean Silva": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/jean-silva",
+    "profile_image_url": "",
+    "finish_stats": {},
+    "physical_stats": {
+      "age": "45"
+    },
+    "combat_stats": {},
+    "last_5_fights": []
+  },
+  "Jessica Andrade": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/jessica-andrade",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/ANDRADE_JESSICA_L_05-10.png?itok=1WsKT5IC",
+    "finish_stats": {
+      "wins_by_ko": "10",
+      "wins_by_sub": "8",
+      "first_round_finishes": "11"
+    },
+    "physical_stats": {
+      "age": "33",
+      "height": "61.50",
+      "weight": "126.00",
+      "reach": "62.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "6.39",
+      "sig_str_absorbed_per_min": "5.49",
+      "takedown_avg_per_15min": "2.21",
+      "submission_avg_per_15min": "0.33",
+      "sig_str_defense_pct": "54%",
+      "takedown_defense_pct": "72%",
+      "knockdown_avg": "0.39",
+      "avg_fight_time": "09:21"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "JASUDAVICIUS",
+        "date": "May. 10, 2025",
+        "round": "1",
+        "time": "2:40",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "SILVA",
+        "date": "Sep. 7, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "RODRIGUEZ",
+        "date": "Apr. 13, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Jimmy Crute": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/jimmy-crute",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/CRUTE_JIMMY_L_02-08.png?itok=dOPeIzJm",
+    "finish_stats": {
+      "wins_by_ko": "5",
+      "wins_by_sub": "4",
+      "first_round_finishes": "8"
+    },
+    "physical_stats": {
+      "age": "28",
+      "height": "74.00",
+      "weight": "206.00",
+      "reach": "74.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.37",
+      "sig_str_absorbed_per_min": "3.63",
+      "takedown_avg_per_15min": "3.86",
+      "submission_avg_per_15min": "1.62",
+      "sig_str_defense_pct": "42%",
+      "takedown_defense_pct": "58%",
+      "knockdown_avg": "0.81",
+      "avg_fight_time": "06:43"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "BELLATO",
+        "date": "Feb. 8, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - MAJORITY",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "MENIFIELD",
+        "date": "Jul. 8, 2023",
+        "round": "2",
+        "time": "1:55",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "MENIFIELD",
+        "date": "Feb. 11, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - MAJORITY",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Johnny Walker": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/johnny-walker",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/WALKER_JOHNNY_L_06-22.png?itok=xYv6cF1q",
+    "finish_stats": {
+      "wins_by_ko": "16",
+      "wins_by_sub": "3",
+      "first_round_finishes": "17"
+    },
+    "physical_stats": {
+      "age": "33",
+      "height": "78.00",
+      "weight": "206.00",
+      "reach": "82.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.87",
+      "sig_str_absorbed_per_min": "3.12",
+      "takedown_avg_per_15min": "0.45",
+      "submission_avg_per_15min": "0.89",
+      "sig_str_defense_pct": "44%",
+      "takedown_defense_pct": "57%",
+      "knockdown_avg": "0.60",
+      "avg_fight_time": "06:43"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "OEZDEMIR",
+        "date": "Jun. 22, 2024",
+        "round": "1",
+        "time": "2:28",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "ANKALAEV",
+        "date": "Jan. 13, 2024",
+        "round": "2",
+        "time": "2:42",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "ANKALAEV",
+        "date": "Oct. 21, 2023",
+        "round": "1",
+        "time": "3:13",
+        "method": "COULD NOT CONTINUE",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Julija Stoliarenko": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/julija-stoliarenko",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/STOLIARENKO_JULIJA_L_02-03.png?itok=67cl4WoP",
+    "finish_stats": {
+      "wins_by_sub": "10",
+      "first_round_finishes": "10"
+    },
+    "physical_stats": {
+      "age": "32",
+      "height": "67.00",
+      "weight": "126.00",
+      "reach": "66.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "2.49",
+      "sig_str_absorbed_per_min": "4.54",
+      "takedown_avg_per_15min": "0.93",
+      "submission_avg_per_15min": "1.67",
+      "sig_str_defense_pct": "46%",
+      "takedown_defense_pct": "55%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "10:08"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "CAROLINA",
+        "date": "Feb. 3, 2024",
+        "round": "3",
+        "time": "4:52",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "MCCANN",
+        "date": "Jul. 22, 2023",
+        "round": "1",
+        "time": "1:55",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "CHANDLER",
+        "date": "Oct. 1, 2022",
+        "round": "1",
+        "time": "4:15",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Junior Tafa": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/junior-tafa",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/TAFA_JUNIOR_L_10-12.png?itok=30MS2bWO",
+    "finish_stats": {
+      "wins_by_ko": "6",
+      "first_round_finishes": "4"
+    },
+    "physical_stats": {
+      "age": "28",
+      "height": "75.00",
+      "weight": "241.00",
+      "reach": "75.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.36",
+      "sig_str_absorbed_per_min": "2.84",
+      "takedown_avg_per_15min": "0.00",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "52%",
+      "takedown_defense_pct": "78%",
+      "knockdown_avg": "0.43",
+      "avg_fight_time": "06:58"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "SHARAF",
+        "date": "Oct. 12, 2024",
+        "round": "2",
+        "time": "2:15",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "WALKER",
+        "date": "Aug. 17, 2024",
+        "round": "1",
+        "time": "4:56",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "DE LIMA",
+        "date": "Feb. 17, 2024",
+        "round": "2",
+        "time": "1:14",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Kai Asakura": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/kai-asakura",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/ASAKURA_KAI_L.png?itok=H4VtBLAS",
+    "finish_stats": {
+      "wins_by_ko": "13",
+      "wins_by_sub": "3",
+      "first_round_finishes": "12"
+    },
+    "physical_stats": {
+      "age": "31",
+      "height": "68.00",
+      "weight": "124.50",
+      "reach": "69.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "2.40",
+      "sig_str_absorbed_per_min": "4.52",
+      "takedown_avg_per_15min": "0.00",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "38%",
+      "takedown_defense_pct": "57%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "07:05"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "PANTOJA",
+        "date": "Dec. 7, 2024",
+        "round": "2",
+        "time": "2:05",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Karine Silva": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/karine-silva",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/SILVA_KARINE_L_08-19.png?itok=myHFEbrm",
+    "finish_stats": {
+      "wins_by_ko": "9",
+      "wins_by_sub": "8",
+      "first_round_finishes": "13"
+    },
+    "physical_stats": {
+      "age": "31",
+      "height": "65.00",
+      "weight": "125.80",
+      "reach": "67.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.04",
+      "sig_str_absorbed_per_min": "3.14",
+      "takedown_avg_per_15min": "2.79",
+      "submission_avg_per_15min": "1.86",
+      "sig_str_defense_pct": "48%",
+      "knockdown_avg": "0.31",
+      "avg_fight_time": "08:04"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "ARAUJO",
+        "date": "Nov. 16, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "DA SILVA",
+        "date": "Apr. 27, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "MOROZ",
+        "date": "Aug. 19, 2023",
+        "round": "1",
+        "time": "4:59",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Karol Rosa": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/karol-rosa",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/7/ROSA_KAROL_L_01-18.png?itok=0vpO7No3",
+    "finish_stats": {
+      "wins_by_ko": "4",
+      "wins_by_sub": "2",
+      "first_round_finishes": "1"
+    },
+    "physical_stats": {
+      "age": "30",
+      "height": "65.00",
+      "weight": "135.50",
+      "reach": "67.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "6.22",
+      "sig_str_absorbed_per_min": "4.84",
+      "takedown_avg_per_15min": "1.09",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "50%",
+      "takedown_defense_pct": "70%",
+      "knockdown_avg": "0.18",
+      "avg_fight_time": "15:00"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "PEREZ",
+        "date": "Jan. 18, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "KIANZAD",
+        "date": "Aug. 10, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "ALDANA",
+        "date": "Dec. 16, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Kennedy Freeman": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/kennedy-freeman",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/2022-02/womens-silhouette-RED-corner.png?itok=DM6s49bs",
+    "finish_stats": {},
+    "physical_stats": {
+      "age": "28"
+    },
+    "combat_stats": {
+      "avg_fight_time": "00:00"
+    },
+    "last_5_fights": []
+  },
+  "Kennedy Nzechukwu": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/kennedy-nzechukwu",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-04/NZECHUKWU_KENNEDY_L_04-05.png?itok=h6aUPEsr",
+    "finish_stats": {
+      "wins_by_ko": "10",
+      "first_round_finishes": "4"
+    },
+    "physical_stats": {
+      "age": "32",
+      "height": "77.00",
+      "weight": "245.00",
+      "reach": "83.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "5.37",
+      "sig_str_absorbed_per_min": "4.89",
+      "takedown_avg_per_15min": "0.56",
+      "submission_avg_per_15min": "0.22",
+      "sig_str_defense_pct": "51%",
+      "takedown_defense_pct": "81%",
+      "knockdown_avg": "0.45",
+      "avg_fight_time": "08:57"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "BRZESKI",
+        "date": "Dec. 7, 2024",
+        "round": "1",
+        "time": "4:51",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "BARNETT",
+        "date": "Oct. 26, 2024",
+        "round": "1",
+        "time": "4:27",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "SAINT PREUX",
+        "date": "Mar. 16, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Ketlen Souza": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/ketlen-souza",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-06/SOUZA_KETLEN_L_06-03.png?itok=V77wJKTV",
+    "finish_stats": {
+      "wins_by_ko": "8",
+      "wins_by_sub": "2",
+      "first_round_finishes": "5"
+    },
+    "physical_stats": {
+      "age": "30",
+      "height": "63.00",
+      "weight": "115.50",
+      "reach": "63.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.92",
+      "sig_str_absorbed_per_min": "4.46",
+      "takedown_avg_per_15min": "0.43",
+      "submission_avg_per_15min": "0.43",
+      "sig_str_defense_pct": "51%",
+      "takedown_defense_pct": "64%",
+      "knockdown_avg": "0.43",
+      "avg_fight_time": "08:42"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "HILL",
+        "date": "Feb. 15, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "JAUREGUI",
+        "date": "Sep. 14, 2024",
+        "round": "1",
+        "time": "3:02",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "MANN",
+        "date": "Apr. 27, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Kevin Borjas": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/kevin-borjas",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-04/BORJAS_KEVIN_L_11-11.png?itok=Hv_soMVZ",
+    "finish_stats": {
+      "wins_by_ko": "8",
+      "first_round_finishes": "5"
+    },
+    "physical_stats": {
+      "age": "27",
+      "height": "65.00",
+      "weight": "125.00",
+      "reach": "68.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "5.10",
+      "sig_str_absorbed_per_min": "5.99",
+      "takedown_avg_per_15min": "0.00",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "51%",
+      "takedown_defense_pct": "65%",
+      "knockdown_avg": "0.29",
+      "avg_fight_time": "12:54"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "RODRIGUEZ",
+        "date": "Mar. 29, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "COSTA",
+        "date": "May. 4, 2024",
+        "round": "2",
+        "time": "1:35",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "VAN",
+        "date": "Nov. 11, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Khamzat Chimaev": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/khamzat-chimaev",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/CHIMAEV_KHAMZAT_L_10-26.png?itok=A5oZNwL2",
+    "finish_stats": {
+      "wins_by_ko": "6",
+      "wins_by_sub": "6",
+      "first_round_finishes": "9"
+    },
+    "physical_stats": {
+      "age": "31",
+      "height": "74.00",
+      "weight": "186.00",
+      "reach": "75.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "5.36",
+      "sig_str_absorbed_per_min": "3.25",
+      "takedown_avg_per_15min": "4.31",
+      "submission_avg_per_15min": "2.77",
+      "sig_str_defense_pct": "42%",
+      "takedown_defense_pct": "100%",
+      "knockdown_avg": "0.62",
+      "avg_fight_time": "06:05"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "WHITTAKER",
+        "date": "Oct. 26, 2024",
+        "round": "1",
+        "time": "3:34",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "USMAN",
+        "date": "Oct. 21, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - MAJORITY",
+        "result": "WIN"
+      },
+      {
+        "opponent": "HOLLAND",
+        "date": "Sep. 10, 2022",
+        "round": "1",
+        "time": "2:13",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      }
+    ]
+  },
+  "King Green": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/king-green",
+    "profile_image_url": "",
+    "finish_stats": {},
+    "physical_stats": {},
+    "combat_stats": {},
+    "last_5_fights": []
+  },
+  "Kyler Phillips": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/kyler-phillips",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/PHILLIPS_KYLER_L_10-19.png?itok=pZWJSw65",
+    "finish_stats": {
+      "wins_by_ko": "5",
+      "wins_by_sub": "2",
+      "first_round_finishes": "5"
+    },
+    "physical_stats": {
+      "age": "30",
+      "height": "68.00",
+      "weight": "135.50",
+      "reach": "72.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "5.28",
+      "sig_str_absorbed_per_min": "3.47",
+      "takedown_avg_per_15min": "2.63",
+      "submission_avg_per_15min": "0.42",
+      "sig_str_defense_pct": "61%",
+      "takedown_defense_pct": "76%",
+      "knockdown_avg": "0.42",
+      "avg_fight_time": "12:02"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "FONT",
+        "date": "Oct. 19, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "MUNHOZ",
+        "date": "Mar. 9, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "BARCELOS",
+        "date": "Aug. 5, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Lauren Murphy": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/lauren-murphy",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-01/MURPHY_LAUREN_L_01-19.png?itok=gEhptWIP",
+    "finish_stats": {
+      "wins_by_ko": "8",
+      "wins_by_sub": "1",
+      "first_round_finishes": "2"
+    },
+    "physical_stats": {
+      "age": "39",
+      "height": "65.00",
+      "weight": "125.50",
+      "reach": "67.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.05",
+      "sig_str_absorbed_per_min": "5.25",
+      "takedown_avg_per_15min": "1.03",
+      "submission_avg_per_15min": "0.07",
+      "sig_str_defense_pct": "55%",
+      "takedown_defense_pct": "70%",
+      "knockdown_avg": "0.07",
+      "avg_fight_time": "14:35"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "ANDRADE",
+        "date": "Jan. 21, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "TATE",
+        "date": "Jul. 16, 2022",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "SHEVCHENKO",
+        "date": "Sep. 25, 2021",
+        "round": "4",
+        "time": "4:00",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Lone'er Kavanagh": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/loneer-kavanagh",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/KAVANAGH_LONEER_L_03-22.png?itok=cTEAvik6",
+    "finish_stats": {
+      "wins_by_ko": "4",
+      "wins_by_sub": "1",
+      "first_round_finishes": "2"
+    },
+    "physical_stats": {
+      "age": "25",
+      "height": "66.00",
+      "weight": "126.00",
+      "reach": "67.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.73",
+      "sig_str_absorbed_per_min": "3.42",
+      "takedown_avg_per_15min": "1.85",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "62%",
+      "takedown_defense_pct": "100%",
+      "knockdown_avg": "0.46",
+      "avg_fight_time": "10:48"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "DOS SANTOS",
+        "date": "Mar. 22, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "OCHOA",
+        "date": "Nov. 23, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Loopy Godínez": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/loopy-godínez",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/GODINEZ_LOOPY_L_03-29.png?itok=4AQkhUL2",
+    "finish_stats": {
+      "wins_by_ko": "1",
+      "wins_by_sub": "2",
+      "first_round_finishes": "2"
+    },
+    "physical_stats": {
+      "age": "31",
+      "height": "62.00",
+      "weight": "116.00",
+      "reach": "61.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.28",
+      "sig_str_absorbed_per_min": "3.87",
+      "takedown_avg_per_15min": "3.12",
+      "submission_avg_per_15min": "0.93",
+      "sig_str_defense_pct": "61%",
+      "takedown_defense_pct": "81%",
+      "knockdown_avg": "0.08",
+      "avg_fight_time": "13:41"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "POLASTRI",
+        "date": "Mar. 29, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "DERN",
+        "date": "Aug. 3, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "JANDIROBA",
+        "date": "Mar. 30, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Marc-Andre Barriault": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/marc-andre-barriault",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/BARRIAULT_MARC-ANDRE_L_05-10.png?itok=zfr33NII",
+    "finish_stats": {
+      "wins_by_ko": "11",
+      "wins_by_sub": "1",
+      "first_round_finishes": "7"
+    },
+    "physical_stats": {
+      "age": "35",
+      "height": "73.00",
+      "weight": "185.00",
+      "reach": "74.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "6.02",
+      "sig_str_absorbed_per_min": "5.57",
+      "takedown_avg_per_15min": "0.21",
+      "submission_avg_per_15min": "0.10",
+      "sig_str_defense_pct": "52%",
+      "takedown_defense_pct": "68%",
+      "knockdown_avg": "0.41",
+      "avg_fight_time": "09:44"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "SILVA",
+        "date": "May. 10, 2025",
+        "round": "1",
+        "time": "1:27",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "STOLTZFUS",
+        "date": "Nov. 2, 2024",
+        "round": "1",
+        "time": "4:28",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "PYFER",
+        "date": "Jun. 29, 2024",
+        "round": "1",
+        "time": "1:25",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Marcin Prachnio": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/marcin-prachnio",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-02/PRACHNIO_MARCIN_L_02-18.png?itok=xQgGFYPh",
+    "finish_stats": {
+      "wins_by_ko": "11",
+      "first_round_finishes": "11"
+    },
+    "physical_stats": {
+      "age": "36",
+      "height": "75.00",
+      "weight": "218.20",
+      "reach": "74.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "5.57",
+      "sig_str_absorbed_per_min": "3.24",
+      "takedown_avg_per_15min": "0.15",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "54%",
+      "takedown_defense_pct": "54%",
+      "knockdown_avg": "0.15",
+      "avg_fight_time": "10:16"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "BUKAUSKAS",
+        "date": "Jul. 27, 2024",
+        "round": "3",
+        "time": "3:12",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "CLARK",
+        "date": "Feb. 10, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "PETRINO",
+        "date": "Jul. 8, 2023",
+        "round": "3",
+        "time": "3:42",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Marcin Tybura": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/marcin-tybura",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/TYBURA_MARCIN_L_03-22.png?itok=TYK-aTAG",
+    "finish_stats": {
+      "wins_by_ko": "10",
+      "wins_by_sub": "7",
+      "first_round_finishes": "11"
+    },
+    "physical_stats": {
+      "age": "39",
+      "height": "75.00",
+      "weight": "250.00",
+      "reach": "78.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.60",
+      "sig_str_absorbed_per_min": "3.31",
+      "takedown_avg_per_15min": "1.39",
+      "submission_avg_per_15min": "0.12",
+      "sig_str_defense_pct": "55%",
+      "takedown_defense_pct": "75%",
+      "knockdown_avg": "0.06",
+      "avg_fight_time": "11:15"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "PARKIN",
+        "date": "Mar. 22, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "DINIZ",
+        "date": "Nov. 16, 2024",
+        "round": "2",
+        "time": "5:00",
+        "method": "TKO - DOCTOR'S STOPPAGE",
+        "result": "WIN"
+      },
+      {
+        "opponent": "SPIVAC",
+        "date": "Aug. 10, 2024",
+        "round": "1",
+        "time": "1:44",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Marco Tulio": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/marco-tulio",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/12/TULIO_MARCO_L_01-11.png?itok=dyDvDisL",
+    "finish_stats": {
+      "wins_by_ko": "10",
+      "first_round_finishes": "7"
+    },
+    "physical_stats": {
+      "age": "30",
+      "height": "72.00",
+      "weight": "186.00",
+      "reach": "74.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "7.54",
+      "sig_str_absorbed_per_min": "2.53",
+      "takedown_avg_per_15min": "0.88",
+      "submission_avg_per_15min": "0.44",
+      "sig_str_defense_pct": "62%",
+      "knockdown_avg": "2.21",
+      "avg_fight_time": "08:30"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "GORE",
+        "date": "Apr. 12, 2025",
+        "round": "2",
+        "time": "3:16",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "POTIERIA",
+        "date": "Jan. 11, 2025",
+        "round": "1",
+        "time": "3:04",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Marcus McGhee": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/marcus-mcghee",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/MCGHEE_MARCUS_L_01-13.png?itok=nxw7zccf",
+    "finish_stats": {
+      "wins_by_ko": "8",
+      "wins_by_sub": "1"
+    },
+    "physical_stats": {
+      "age": "35",
+      "height": "68.00",
+      "weight": "135.60",
+      "reach": "69.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "6.06",
+      "sig_str_absorbed_per_min": "2.83",
+      "takedown_avg_per_15min": "0.46",
+      "submission_avg_per_15min": "0.46",
+      "sig_str_defense_pct": "65%",
+      "takedown_defense_pct": "100%",
+      "knockdown_avg": "1.37",
+      "avg_fight_time": "08:13"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "MARTINEZ",
+        "date": "Nov. 16, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "BOLANOS",
+        "date": "Jan. 13, 2024",
+        "round": "2",
+        "time": "3:29",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "BUYS",
+        "date": "Aug. 12, 2023",
+        "round": "1",
+        "time": "2:19",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Marvin Vettori": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/marvin-vettori",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/VETTORI_MARVIN_L_03-15.png?itok=xf-CTOD6",
+    "finish_stats": {
+      "wins_by_ko": "2",
+      "wins_by_sub": "9",
+      "first_round_finishes": "11"
+    },
+    "physical_stats": {
+      "age": "31",
+      "height": "72.00",
+      "weight": "186.00",
+      "reach": "74.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.54",
+      "sig_str_absorbed_per_min": "4.37",
+      "takedown_avg_per_15min": "1.51",
+      "submission_avg_per_15min": "0.43",
+      "sig_str_defense_pct": "57%",
+      "takedown_defense_pct": "70%",
+      "knockdown_avg": "0.05",
+      "avg_fight_time": "17:25"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "DOLIDZE",
+        "date": "Mar. 15, 2025",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "CANNONIER",
+        "date": "Jun. 17, 2023",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "DOLIDZE",
+        "date": "Mar. 18, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Mason Jones": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/mason-jones",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-07/JONES_MASON_L_07-23.png?itok=NTb-xKxP",
+    "finish_stats": {
+      "wins_by_ko": "4",
+      "wins_by_sub": "3",
+      "first_round_finishes": "4"
+    },
+    "physical_stats": {
+      "age": "30",
+      "height": "70.00",
+      "weight": "155.50",
+      "reach": "74.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "5.56",
+      "sig_str_absorbed_per_min": "4.46",
+      "takedown_avg_per_15min": "4.24",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "49%",
+      "takedown_defense_pct": "80%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "13:27"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "STEPHENS",
+        "date": "May. 3, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "KLEIN",
+        "date": "Jul. 23, 2022",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "ONAMA",
+        "date": "Oct. 23, 2021",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Max Griffin": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/max-griffin",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-02/GRIFFIN_MAX_L_02-10.png?itok=VYmpMYEj",
+    "finish_stats": {
+      "wins_by_ko": "9",
+      "wins_by_sub": "2",
+      "first_round_finishes": "7"
+    },
+    "physical_stats": {
+      "age": "39",
+      "height": "71.00",
+      "weight": "170.00",
+      "reach": "76.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.75",
+      "sig_str_absorbed_per_min": "3.66",
+      "takedown_avg_per_15min": "1.37",
+      "submission_avg_per_15min": "0.27",
+      "sig_str_defense_pct": "58%",
+      "takedown_defense_pct": "70%",
+      "knockdown_avg": "0.55",
+      "avg_fight_time": "12:55"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "CHIESA",
+        "date": "Dec. 7, 2024",
+        "round": "3",
+        "time": "1:56",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "WELLS",
+        "date": "Feb. 10, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      },
+      {
+        "opponent": "MORALES",
+        "date": "Jul. 1, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Max Holloway": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/max-holloway",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-04/HOLLOWAY_MAX_L_04-13.png?itok=nyja7udA",
+    "finish_stats": {
+      "wins_by_ko": "12",
+      "wins_by_sub": "2"
+    },
+    "physical_stats": {
+      "age": "32",
+      "height": "71.00",
+      "weight": "145.00",
+      "reach": "69.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "7.16",
+      "sig_str_absorbed_per_min": "4.76",
+      "takedown_avg_per_15min": "0.25",
+      "submission_avg_per_15min": "0.31",
+      "sig_str_defense_pct": "59%",
+      "takedown_defense_pct": "83%",
+      "knockdown_avg": "0.34",
+      "avg_fight_time": "16:05"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "TOPURIA",
+        "date": "Oct. 26, 2024",
+        "round": "3",
+        "time": "1:34",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "GAETHJE",
+        "date": "Apr. 13, 2024",
+        "round": "5",
+        "time": "4:59",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "JUNG",
+        "date": "Aug. 26, 2023",
+        "round": "3",
+        "time": "0:23",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Melissa Martinez": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/melissa-martinez",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/5/MARTINEZ_MELISSA_L_09-10.png?itok=YoaRnef9",
+    "finish_stats": {
+      "wins_by_ko": "5",
+      "first_round_finishes": "3"
+    },
+    "physical_stats": {
+      "age": "27",
+      "height": "62.00",
+      "weight": "115.50",
+      "reach": "66.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.90",
+      "sig_str_absorbed_per_min": "4.33",
+      "takedown_avg_per_15min": "0.50",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "56%",
+      "takedown_defense_pct": "25%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "15:00"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "ARDELEAN",
+        "date": "Oct. 19, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "REED",
+        "date": "Sep. 10, 2022",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Michael Johnson": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/michael-johnson",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/JOHNSON_MICHAEL_L_12-14.png?itok=2akOe-0e",
+    "finish_stats": {
+      "wins_by_ko": "10",
+      "wins_by_sub": "2",
+      "first_round_finishes": "8"
+    },
+    "physical_stats": {
+      "age": "38",
+      "height": "70.00",
+      "weight": "156.00",
+      "reach": "73.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.23",
+      "sig_str_absorbed_per_min": "3.80",
+      "takedown_avg_per_15min": "0.61",
+      "submission_avg_per_15min": "0.04",
+      "sig_str_defense_pct": "58%",
+      "takedown_defense_pct": "81%",
+      "knockdown_avg": "0.52",
+      "avg_fight_time": "11:30"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "AZAITAR",
+        "date": "Dec. 14, 2024",
+        "round": "2",
+        "time": "2:03",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "FLOWERS",
+        "date": "Feb. 10, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "FERREIRA",
+        "date": "May. 20, 2023",
+        "round": "2",
+        "time": "1:50",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Michael Page": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/michael-page",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-03/PAGE_MICHAEL_L_03-09.png?itok=yl8pTNPc",
+    "finish_stats": {
+      "wins_by_ko": "13",
+      "wins_by_sub": "3",
+      "first_round_finishes": "13"
+    },
+    "physical_stats": {
+      "age": "37",
+      "height": "75.00",
+      "weight": "170.00",
+      "reach": "79.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "2.53",
+      "sig_str_absorbed_per_min": "1.78",
+      "takedown_avg_per_15min": "0.30",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "55%",
+      "takedown_defense_pct": "64%",
+      "knockdown_avg": "0.30",
+      "avg_fight_time": "09:53"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "MAGOMEDOV",
+        "date": "Feb. 1, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "MACHADO GARRY",
+        "date": "Jun. 29, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "HOLLAND",
+        "date": "Mar. 9, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Michal Oleksiejczuk": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/michal-oleksiejczuk",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-06/OLEKSIEJCZUK_MICHAL_L_06-01.png?itok=hiZsACSg",
+    "finish_stats": {
+      "wins_by_ko": "15",
+      "wins_by_sub": "1",
+      "first_round_finishes": "12"
+    },
+    "physical_stats": {
+      "age": "30",
+      "height": "72.00",
+      "weight": "186.00",
+      "reach": "74.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "5.27",
+      "sig_str_absorbed_per_min": "4.51",
+      "takedown_avg_per_15min": "1.05",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "59%",
+      "takedown_defense_pct": "48%",
+      "knockdown_avg": "1.20",
+      "avg_fight_time": "06:14"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "DUMAS",
+        "date": "Apr. 12, 2025",
+        "round": "1",
+        "time": "2:49",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "MAGOMEDOV",
+        "date": "Aug. 3, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "HOLLAND",
+        "date": "Jun. 1, 2024",
+        "round": "1",
+        "time": "1:34",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Michel Pereira": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/michel-pereira",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-04/PEREIRA_MICHEL_L_04-26.png?itok=vnSI0EIZ",
+    "finish_stats": {
+      "wins_by_ko": "11",
+      "wins_by_sub": "9",
+      "first_round_finishes": "14"
+    },
+    "physical_stats": {
+      "age": "31",
+      "height": "73.00",
+      "weight": "186.00",
+      "reach": "73.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.50",
+      "sig_str_absorbed_per_min": "4.33",
+      "takedown_avg_per_15min": "1.14",
+      "submission_avg_per_15min": "0.72",
+      "sig_str_defense_pct": "52%",
+      "takedown_defense_pct": "76%",
+      "knockdown_avg": "0.31",
+      "avg_fight_time": "11:09"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "MAGOMEDOV",
+        "date": "Apr. 26, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "HERNANDEZ",
+        "date": "Oct. 19, 2024",
+        "round": "5",
+        "time": "2:22",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "POTIERIA",
+        "date": "May. 4, 2024",
+        "round": "1",
+        "time": "0:54",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Mike Davis": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/mike-davis",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-05/DAVIS_MIKE_L_03-16.png?itok=WaWtJpMi",
+    "finish_stats": {
+      "wins_by_ko": "7",
+      "wins_by_sub": "2",
+      "first_round_finishes": "4"
+    },
+    "physical_stats": {
+      "age": "32",
+      "height": "72.00",
+      "weight": "155.50",
+      "reach": "72.50"
+    },
+    "combat_stats": {
+      "avg_fight_time": "00:00"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "ZIAM",
+        "date": "Feb. 1, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "LEVY",
+        "date": "Mar. 16, 2024",
+        "round": "2",
+        "time": "1:43",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "BORSHCHEV",
+        "date": "Oct. 1, 2022",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Miles Johns": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/miles-johns",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/JOHNS_MILES_L_12-14.png?itok=rImzAekH",
+    "finish_stats": {
+      "wins_by_ko": "4",
+      "wins_by_sub": "2"
+    },
+    "physical_stats": {
+      "age": "31",
+      "height": "67.00",
+      "weight": "146.00",
+      "reach": "68.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.16",
+      "sig_str_absorbed_per_min": "2.65",
+      "takedown_avg_per_15min": "0.92",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "68%",
+      "takedown_defense_pct": "82%",
+      "knockdown_avg": "0.31",
+      "avg_fight_time": "13:24"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "LIMA",
+        "date": "Dec. 14, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "SILVA DE ANDRADE",
+        "date": "Jun. 15, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "GIBSON",
+        "date": "Mar. 23, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Mitch Ramirez": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/mitch-ramirez",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/RAMIREZ_MITCH_L_03-16.png?itok=gzfjNDHR",
+    "finish_stats": {
+      "wins_by_ko": "5",
+      "wins_by_sub": "2",
+      "first_round_finishes": "6"
+    },
+    "physical_stats": {
+      "age": "32",
+      "height": "71.00",
+      "weight": "155.50",
+      "reach": "71.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "2.37",
+      "sig_str_absorbed_per_min": "3.34",
+      "takedown_avg_per_15min": "0.91",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "36%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "08:15"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "MOISES",
+        "date": "Mar. 16, 2024",
+        "round": "3",
+        "time": "0:15",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Morgan Charrière": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/morgan-charrière",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-09/CHARRIERE_MORGAN_L_09-28.png?itok=FnT-ycXA",
+    "finish_stats": {
+      "wins_by_ko": "12",
+      "wins_by_sub": "3",
+      "first_round_finishes": "8"
+    },
+    "physical_stats": {
+      "age": "29",
+      "height": "68.00",
+      "weight": "146.00",
+      "reach": "69.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.46",
+      "sig_str_absorbed_per_min": "4.15",
+      "takedown_avg_per_15min": "1.91",
+      "submission_avg_per_15min": "0.38",
+      "sig_str_defense_pct": "51%",
+      "takedown_defense_pct": "83%",
+      "knockdown_avg": "0.76",
+      "avg_fight_time": "09:50"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "WOOD",
+        "date": "Mar. 22, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "MIRANDA",
+        "date": "Sep. 28, 2024",
+        "round": "2",
+        "time": "0:27",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "MARISCAL",
+        "date": "Apr. 6, 2024",
+        "round": "3",
+        "time": "5",
+        "method": "DECISION - SPLIT",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Movsar Evloev": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/movsar-evloev",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/EVLOEV_MOVSAR_L_12-07.png?itok=VAukk1Mu",
+    "finish_stats": {
+      "wins_by_ko": "3",
+      "wins_by_sub": "4",
+      "first_round_finishes": "2"
+    },
+    "physical_stats": {
+      "age": "31",
+      "height": "67.00",
+      "weight": "145.50",
+      "reach": "72.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.99",
+      "sig_str_absorbed_per_min": "2.66",
+      "takedown_avg_per_15min": "4.67",
+      "submission_avg_per_15min": "0.22",
+      "sig_str_defense_pct": "61%",
+      "takedown_defense_pct": "61%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "15:00"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "STERLING",
+        "date": "Dec. 7, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "ALLEN",
+        "date": "Jan. 20, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "LOPES",
+        "date": "May. 6, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Nassourdine Imavov": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/nassourdine-imavov",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/IMAVOV_NASSOURDINE_L_09-28.png?itok=RNQBrxwa",
+    "finish_stats": {
+      "wins_by_ko": "7",
+      "wins_by_sub": "4",
+      "first_round_finishes": "7"
+    },
+    "physical_stats": {
+      "age": "29",
+      "height": "75.00",
+      "weight": "185.00",
+      "reach": "75.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.45",
+      "sig_str_absorbed_per_min": "3.26",
+      "takedown_avg_per_15min": "0.85",
+      "submission_avg_per_15min": "1.14",
+      "sig_str_defense_pct": "59%",
+      "takedown_defense_pct": "79%",
+      "knockdown_avg": "0.19",
+      "avg_fight_time": "14:23"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "ADESANYA",
+        "date": "Feb. 1, 2025",
+        "round": "2",
+        "time": "0:30",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "ALLEN",
+        "date": "Sep. 28, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "CANNONIER",
+        "date": "Jun. 8, 2024",
+        "round": "4",
+        "time": "1:34",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Nate Landwehr": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/nate-landwehr",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/LANDWEHR_NATE_L_12-07.png?itok=7h1db_3L",
+    "finish_stats": {
+      "wins_by_ko": "9",
+      "wins_by_sub": "2",
+      "first_round_finishes": "3"
+    },
+    "physical_stats": {
+      "age": "36",
+      "height": "69.00",
+      "weight": "145.50",
+      "reach": "72.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "5.59",
+      "sig_str_absorbed_per_min": "5.77",
+      "takedown_avg_per_15min": "0.85",
+      "submission_avg_per_15min": "0.85",
+      "sig_str_defense_pct": "53%",
+      "takedown_defense_pct": "74%",
+      "knockdown_avg": "0.17",
+      "avg_fight_time": "09:48"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "CHOI",
+        "date": "Dec. 7, 2024",
+        "round": "3",
+        "time": "3:21",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "EMMERS",
+        "date": "Mar. 30, 2024",
+        "round": "1",
+        "time": "4:43",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "IGE",
+        "date": "Jun. 10, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Nathan Fletcher": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/nathan-fletcher",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/FLETCHER_NATHAN_L_03-22.png?itok=8FuPf0Ja",
+    "finish_stats": {
+      "wins_by_ko": "1",
+      "wins_by_sub": "7",
+      "first_round_finishes": "4"
+    },
+    "physical_stats": {
+      "age": "27",
+      "height": "67.00",
+      "weight": "135.00",
+      "reach": "70.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.44",
+      "sig_str_absorbed_per_min": "1.70",
+      "takedown_avg_per_15min": "3.53",
+      "submission_avg_per_15min": "0.71",
+      "sig_str_defense_pct": "62%",
+      "takedown_defense_pct": "50%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "10:37"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "LOUGHRAN",
+        "date": "Mar. 22, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "RAMASKA",
+        "date": "Sep. 7, 2024",
+        "round": "2",
+        "time": "1:14",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Neil Magny": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/neil-magny",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/MAGNY_NEIL_L_11-09.png?itok=OV0qpOx5",
+    "finish_stats": {
+      "wins_by_ko": "8",
+      "wins_by_sub": "4"
+    },
+    "physical_stats": {
+      "age": "37",
+      "height": "75.00",
+      "weight": "171.00",
+      "reach": "80.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.43",
+      "sig_str_absorbed_per_min": "2.48",
+      "takedown_avg_per_15min": "2.12",
+      "submission_avg_per_15min": "0.25",
+      "sig_str_defense_pct": "52%",
+      "takedown_defense_pct": "54%",
+      "knockdown_avg": "0.07",
+      "avg_fight_time": "12:16"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "PRATES",
+        "date": "Nov. 9, 2024",
+        "round": "1",
+        "time": "4:50",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "MORALES",
+        "date": "Aug. 24, 2024",
+        "round": "1",
+        "time": "4:39",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "MALOTT",
+        "date": "Jan. 20, 2024",
+        "round": "3",
+        "time": "4:45",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Nick Klein": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/nick-klein",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/KLEIN_NICK_R_02-22.png?itok=tPs95QV1",
+    "finish_stats": {
+      "wins_by_ko": "2",
+      "wins_by_sub": "3",
+      "first_round_finishes": "4"
+    },
+    "physical_stats": {
+      "age": "29",
+      "height": "73.00",
+      "weight": "186.00",
+      "reach": "77.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.22",
+      "sig_str_absorbed_per_min": "3.33",
+      "takedown_avg_per_15min": "3.33",
+      "submission_avg_per_15min": "1.66",
+      "sig_str_defense_pct": "47%",
+      "takedown_defense_pct": "67%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "04:31"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "ABDUL-MALIK",
+        "date": "Feb. 22, 2025",
+        "round": "2",
+        "time": "3:24",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Nicolle Caliari": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/nicolle-caliari",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/2/CALIARI_NICOLLE_L_01-11.png?itok=DYRuOgcO",
+    "finish_stats": {
+      "wins_by_ko": "5",
+      "wins_by_sub": "3",
+      "first_round_finishes": "4"
+    },
+    "physical_stats": {
+      "age": "28",
+      "height": "63.00",
+      "weight": "125.50",
+      "reach": "62.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.85",
+      "sig_str_absorbed_per_min": "5.57",
+      "takedown_avg_per_15min": "3.80",
+      "submission_avg_per_15min": "1.52",
+      "sig_str_defense_pct": "56%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "09:53"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "KARECKAITE",
+        "date": "Jan. 11, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Nikita Krylov": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/nikita-krylov",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-04/KRYLOV_NIKITA_L_04-12.png?itok=LKWc-qCy",
+    "finish_stats": {
+      "wins_by_ko": "12",
+      "wins_by_sub": "16",
+      "first_round_finishes": "23"
+    },
+    "physical_stats": {
+      "age": "33",
+      "height": "75.00",
+      "weight": "206.00",
+      "reach": "77.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.33",
+      "sig_str_absorbed_per_min": "2.49",
+      "takedown_avg_per_15min": "2.24",
+      "submission_avg_per_15min": "1.42",
+      "sig_str_defense_pct": "45%",
+      "takedown_defense_pct": "53%",
+      "knockdown_avg": "0.59",
+      "avg_fight_time": "06:41"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "REYES",
+        "date": "Apr. 12, 2025",
+        "round": "1",
+        "time": "2:24",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "SPANN",
+        "date": "Mar. 11, 2023",
+        "round": "1",
+        "time": "3:38",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "OEZDEMIR",
+        "date": "Oct. 22, 2022",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Nora Cornolle": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/nora-cornolle",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-04/CORNOLLE_NORA_L_04-12.png?itok=nfV-vmCE",
+    "finish_stats": {
+      "wins_by_ko": "6",
+      "wins_by_sub": "2",
+      "first_round_finishes": "4"
+    },
+    "physical_stats": {
+      "age": "35",
+      "height": "67.00",
+      "weight": "137.50",
+      "reach": "67.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.07",
+      "sig_str_absorbed_per_min": "1.91",
+      "takedown_avg_per_15min": "0.33",
+      "submission_avg_per_15min": "0.33",
+      "sig_str_defense_pct": "62%",
+      "takedown_defense_pct": "50%",
+      "knockdown_avg": "0.33",
+      "avg_fight_time": "11:15"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "COWAN",
+        "date": "Apr. 12, 2025",
+        "round": "2",
+        "time": "1:52",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "CAVALCANTI",
+        "date": "Sep. 28, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "MULLINS",
+        "date": "Apr. 6, 2024",
+        "round": "2",
+        "time": "3:06",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Nursulton Ruziboev": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/nursulton-ruziboev",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/RUZIBOEV_NURSULTON_L_02-22.png?itok=43G1c9jp",
+    "finish_stats": {
+      "wins_by_ko": "13",
+      "wins_by_sub": "20",
+      "first_round_finishes": "25"
+    },
+    "physical_stats": {
+      "age": "31",
+      "height": "77.00",
+      "weight": "185.50",
+      "reach": "76.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "2.59",
+      "sig_str_absorbed_per_min": "2.89",
+      "takedown_avg_per_15min": "0.75",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "49%",
+      "takedown_defense_pct": "33%",
+      "knockdown_avg": "1.12",
+      "avg_fight_time": "08:02"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "STOLTZFUS",
+        "date": "May. 17, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "MCCONICO",
+        "date": "Feb. 22, 2025",
+        "round": "2",
+        "time": "0:33",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "BUCKLEY",
+        "date": "May. 11, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Opponent TBA": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/opponent-tba",
+    "profile_image_url": "",
+    "finish_stats": {},
+    "physical_stats": {},
+    "combat_stats": {},
+    "last_5_fights": []
+  },
+  "Patricio Pitbull": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/patricio-pitbull",
+    "profile_image_url": "",
+    "finish_stats": {},
+    "physical_stats": {},
+    "combat_stats": {},
+    "last_5_fights": []
+  },
+  "Paulo Costa": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/paulo-costa",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/COSTA_PAULO_L_06-01.png?itok=-9AAe8tr",
+    "finish_stats": {
+      "wins_by_ko": "11",
+      "wins_by_sub": "1",
+      "first_round_finishes": "9"
+    },
+    "physical_stats": {
+      "age": "34",
+      "height": "73.00",
+      "weight": "185.00",
+      "reach": "72.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "6.22",
+      "sig_str_absorbed_per_min": "6.56",
+      "takedown_avg_per_15min": "0.36",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "49%",
+      "takedown_defense_pct": "80%",
+      "knockdown_avg": "0.48",
+      "avg_fight_time": "12:32"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "STRICKLAND",
+        "date": "Jun. 1, 2024",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "WHITTAKER",
+        "date": "Feb. 17, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "ROCKHOLD",
+        "date": "Aug. 20, 2022",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Petr Yan": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/petr-yan",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/YAN_PETR_L_11-23.png?itok=T41_smuM",
+    "finish_stats": {
+      "wins_by_ko": "7",
+      "wins_by_sub": "1",
+      "first_round_finishes": "3"
+    },
+    "physical_stats": {
+      "age": "32",
+      "height": "67.50",
+      "weight": "135.50",
+      "reach": "67.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "5.11",
+      "sig_str_absorbed_per_min": "4.13",
+      "takedown_avg_per_15min": "1.61",
+      "submission_avg_per_15min": "0.12",
+      "sig_str_defense_pct": "59%",
+      "takedown_defense_pct": "85%",
+      "knockdown_avg": "0.62",
+      "avg_fight_time": "17:17"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "FIGUEIREDO",
+        "date": "Nov. 23, 2024",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "YADONG",
+        "date": "Mar. 9, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "DVALISHVILI",
+        "date": "Mar. 11, 2023",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Piera Rodriguez": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/piera-rodriguez",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/RODRIGUEZ_PIERA_L_05-18.png?itok=jMZfK0q-",
+    "finish_stats": {
+      "wins_by_ko": "5"
+    },
+    "physical_stats": {
+      "age": "32",
+      "height": "63.00",
+      "weight": "116.00",
+      "reach": "63.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.40",
+      "sig_str_absorbed_per_min": "2.63",
+      "takedown_avg_per_15min": "4.06",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "58%",
+      "takedown_defense_pct": "67%",
+      "knockdown_avg": "0.19",
+      "avg_fight_time": "12:56"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "KNUTSSON",
+        "date": "Dec. 14, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "CARNELOSSI",
+        "date": "May. 18, 2024",
+        "round": "2",
+        "time": "3:16",
+        "method": "DQ",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "ROBERTSON",
+        "date": "Apr. 15, 2023",
+        "round": "2",
+        "time": "4:21",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Ramazan Temirov": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/ramazan-temirov",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/TEMIROV_RAMAZAN_L_10-12.png?itok=_WuAVfET",
+    "finish_stats": {
+      "wins_by_ko": "11",
+      "wins_by_sub": "1",
+      "first_round_finishes": "10"
+    },
+    "physical_stats": {
+      "age": "28",
+      "height": "64.00",
+      "weight": "125.50",
+      "reach": "63.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.37",
+      "sig_str_absorbed_per_min": "3.93",
+      "takedown_avg_per_15min": "0.84",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "59%",
+      "takedown_defense_pct": "100%",
+      "knockdown_avg": "2.52",
+      "avg_fight_time": "08:55"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "JOHNSON",
+        "date": "Mar. 1, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "VERGARA",
+        "date": "Oct. 12, 2024",
+        "round": "1",
+        "time": "2:50",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Reinier de Ridder": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/reinier-de-ridder",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/DE_RIDDER_REINIER_L_05-03.png?itok=nyWvBtyQ",
+    "finish_stats": {
+      "wins_by_ko": "5",
+      "wins_by_sub": "13",
+      "first_round_finishes": "11"
+    },
+    "physical_stats": {
+      "age": "34",
+      "height": "76.00",
+      "weight": "185.50",
+      "reach": "78.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.25",
+      "sig_str_absorbed_per_min": "2.21",
+      "takedown_avg_per_15min": "4.74",
+      "submission_avg_per_15min": "1.36",
+      "sig_str_defense_pct": "44%",
+      "takedown_defense_pct": "67%",
+      "knockdown_avg": "1.36",
+      "avg_fight_time": "07:23"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "DE RIDDER",
+        "date": "May. 3, 2025",
+        "round": "2",
+        "time": "1:53",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "HOLLAND",
+        "date": "Jan. 18, 2025",
+        "round": "1",
+        "time": "3:31",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "MEERSCHAERT",
+        "date": "Nov. 9, 2024",
+        "round": "3",
+        "time": "1:44",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Rinat Fakhretdinov": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/rinat-fakhretdinov",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/FAKHRETDINOV_RINAT_L_10-26.png?itok=kEINIa3I",
+    "finish_stats": {
+      "wins_by_ko": "11",
+      "wins_by_sub": "6",
+      "first_round_finishes": "13"
+    },
+    "physical_stats": {
+      "age": "33",
+      "height": "72.00",
+      "weight": "171.00",
+      "reach": "74.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.78",
+      "sig_str_absorbed_per_min": "3.58",
+      "takedown_avg_per_15min": "3.95",
+      "submission_avg_per_15min": "0.20",
+      "sig_str_defense_pct": "54%",
+      "takedown_defense_pct": "92%",
+      "knockdown_avg": "0.59",
+      "avg_fight_time": "12:39"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "LEAL",
+        "date": "Oct. 26, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "DALBY",
+        "date": "Jun. 22, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      },
+      {
+        "opponent": "DOS SANTOS",
+        "date": "Nov. 4, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - MAJORITY",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Rinya Nakamura": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/rinya-nakamura",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-08/NAKAMURA_RINYA_L%298_26.png?itok=B0X2_4BL",
+    "finish_stats": {
+      "wins_by_ko": "5",
+      "wins_by_sub": "1",
+      "first_round_finishes": "5"
+    },
+    "physical_stats": {
+      "age": "29",
+      "height": "67.00",
+      "weight": "135.00",
+      "reach": "68.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.10",
+      "sig_str_absorbed_per_min": "1.70",
+      "takedown_avg_per_15min": "2.63",
+      "submission_avg_per_15min": "1.46",
+      "sig_str_defense_pct": "64%",
+      "takedown_defense_pct": "100%",
+      "knockdown_avg": "1.17",
+      "avg_fight_time": "08:33"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "GAFUROV",
+        "date": "Jan. 18, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "VERA",
+        "date": "Feb. 17, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "GARCIA",
+        "date": "Aug. 26, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Robert Valentin": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/robert-valentin",
+    "profile_image_url": "",
+    "finish_stats": {},
+    "physical_stats": {},
+    "combat_stats": {},
+    "last_5_fights": []
+  },
+  "Robert Whittaker": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/robert-whittaker",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/WHITTAKER_ROBERT_L_10-26.png?itok=dM21QX6R",
+    "finish_stats": {
+      "wins_by_ko": "11",
+      "wins_by_sub": "5",
+      "first_round_finishes": "7"
+    },
+    "physical_stats": {
+      "age": "34",
+      "height": "72.00",
+      "weight": "185.50",
+      "reach": "73.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.54",
+      "sig_str_absorbed_per_min": "3.41",
+      "takedown_avg_per_15min": "0.80",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "60%",
+      "takedown_defense_pct": "81%",
+      "knockdown_avg": "0.55",
+      "avg_fight_time": "13:07"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "CHIMAEV",
+        "date": "Oct. 26, 2024",
+        "round": "1",
+        "time": "3:34",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "ALISKEROV",
+        "date": "Jun. 22, 2024",
+        "round": "1",
+        "time": "1:49",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "COSTA",
+        "date": "Feb. 17, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Rodolfo Vieira": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/rodolfo-vieira",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/VIEIRA_RODOLFO_L_02-15.png?itok=Z2jRXqmu",
+    "finish_stats": {
+      "wins_by_ko": "1",
+      "wins_by_sub": "9",
+      "first_round_finishes": "6"
+    },
+    "physical_stats": {
+      "age": "35",
+      "height": "72.00",
+      "weight": "185.50",
+      "reach": "73.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.33",
+      "sig_str_absorbed_per_min": "4.40",
+      "takedown_avg_per_15min": "3.52",
+      "submission_avg_per_15min": "1.24",
+      "sig_str_defense_pct": "49%",
+      "takedown_defense_pct": "100%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "09:03"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "PETROSKI",
+        "date": "Feb. 15, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "PETROSYAN",
+        "date": "Feb. 10, 2024",
+        "round": "1",
+        "time": "4:48",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "BRUNDAGE",
+        "date": "Apr. 29, 2023",
+        "round": "2",
+        "time": "1:28",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Roman Dolidze": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/roman-dolidze",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/DOLIDZE_ROMAN_L_10-05.png?itok=3xwt-2jM",
+    "finish_stats": {
+      "wins_by_ko": "8",
+      "wins_by_sub": "3",
+      "first_round_finishes": "8"
+    },
+    "physical_stats": {
+      "age": "36",
+      "height": "74.00",
+      "weight": "186.00",
+      "reach": "76.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.58",
+      "sig_str_absorbed_per_min": "3.56",
+      "takedown_avg_per_15min": "1.11",
+      "submission_avg_per_15min": "0.91",
+      "sig_str_defense_pct": "50%",
+      "takedown_defense_pct": "33%",
+      "knockdown_avg": "0.40",
+      "avg_fight_time": "12:24"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "VETTORI",
+        "date": "Mar. 15, 2025",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "HOLLAND",
+        "date": "Oct. 5, 2024",
+        "round": "1",
+        "time": "5:00",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "SMITH",
+        "date": "Jun. 29, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Roman Kopylov": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/roman-kopylov",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/2/KOPYLOV_ROMAN_L_01-11.png?itok=TiK1_NK4",
+    "finish_stats": {
+      "wins_by_ko": "12",
+      "first_round_finishes": "1"
+    },
+    "physical_stats": {
+      "age": "33",
+      "height": "72.00",
+      "weight": "185.50",
+      "reach": "75.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.96",
+      "sig_str_absorbed_per_min": "4.86",
+      "takedown_avg_per_15min": "1.17",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "55%",
+      "takedown_defense_pct": "87%",
+      "knockdown_avg": "0.88",
+      "avg_fight_time": "11:21"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "CURTIS",
+        "date": "Jan. 11, 2025",
+        "round": "3",
+        "time": "4:59",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "ALMEIDA",
+        "date": "Jun. 1, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      },
+      {
+        "opponent": "HERNANDEZ",
+        "date": "Feb. 17, 2024",
+        "round": "2",
+        "time": "3:23",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Said Nurmagomedov": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/said-nurmagomedov",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/NURMAGOMEDOV_SAID_L_02-01.png?itok=KZZ4SeN6",
+    "finish_stats": {
+      "wins_by_ko": "4",
+      "wins_by_sub": "6",
+      "first_round_finishes": "9"
+    },
+    "physical_stats": {
+      "age": "32",
+      "height": "68.00",
+      "weight": "135.50",
+      "reach": "70.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.38",
+      "sig_str_absorbed_per_min": "2.25",
+      "takedown_avg_per_15min": "1.01",
+      "submission_avg_per_15min": "1.18",
+      "sig_str_defense_pct": "56%",
+      "takedown_defense_pct": "62%",
+      "knockdown_avg": "0.17",
+      "avg_fight_time": "08:55"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "OLIVEIRA",
+        "date": "Feb. 1, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "GAFUROV",
+        "date": "Oct. 21, 2023",
+        "round": "1",
+        "time": "1:13",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "MARTINEZ",
+        "date": "Mar. 11, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Sam Hughes": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/sam-hughes",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-02/HUGHES_SAM_L_02-24.png?itok=oFKTT4Dz",
+    "finish_stats": {
+      "wins_by_ko": "2",
+      "wins_by_sub": "3",
+      "first_round_finishes": "3"
+    },
+    "physical_stats": {
+      "age": "32",
+      "height": "65.00",
+      "weight": "116.00",
+      "reach": "64.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.41",
+      "sig_str_absorbed_per_min": "4.57",
+      "takedown_avg_per_15min": "1.08",
+      "submission_avg_per_15min": "0.11",
+      "sig_str_defense_pct": "59%",
+      "takedown_defense_pct": "60%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "13:53"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "BRUNA LUCIANO",
+        "date": "Mar. 15, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      },
+      {
+        "opponent": "DUDAKOVA",
+        "date": "Aug. 3, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      },
+      {
+        "opponent": "JAUREGUI",
+        "date": "Feb. 24, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Sergei Pavlovich": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/sergei-pavlovich",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/PAVLOVICH_SERGEI_L_02-01.png?itok=SYI_MlH1",
+    "finish_stats": {
+      "wins_by_ko": "15",
+      "first_round_finishes": "15"
+    },
+    "physical_stats": {
+      "age": "33",
+      "height": "75.00",
+      "weight": "249.00",
+      "reach": "84.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.54",
+      "sig_str_absorbed_per_min": "3.81",
+      "takedown_avg_per_15min": "0.63",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "54%",
+      "takedown_defense_pct": "75%",
+      "knockdown_avg": "2.20",
+      "avg_fight_time": "04:47"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "ROZENSTRUIK",
+        "date": "Feb. 1, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "VOLKOV",
+        "date": "Jun. 22, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "ASPINALL",
+        "date": "Nov. 11, 2023",
+        "round": "1",
+        "time": "1:09",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Shara Magomedov": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/shara-magomedov",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/MAGOMEDOV_SHARA_L_02-01.png?itok=Wxft9Ypx",
+    "finish_stats": {
+      "wins_by_ko": "12",
+      "first_round_finishes": "7"
+    },
+    "physical_stats": {
+      "age": "30",
+      "height": "74.00",
+      "weight": "185.00",
+      "reach": "73.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "5.87",
+      "sig_str_absorbed_per_min": "4.13",
+      "takedown_avg_per_15min": "0.00",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "43%",
+      "takedown_defense_pct": "73%",
+      "knockdown_avg": "0.45",
+      "avg_fight_time": "13:28"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "PAGE",
+        "date": "Feb. 1, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "PETROSYAN",
+        "date": "Oct. 26, 2024",
+        "round": "2",
+        "time": "4:52",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "OLEKSIEJCZUK",
+        "date": "Aug. 3, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Shauna Bannon": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/shauna-bannon",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/BANNON_SHAUNA_L_03-22.png?itok=D345TcMd",
+    "finish_stats": {
+      "wins_by_ko": "2",
+      "first_round_finishes": "1"
+    },
+    "physical_stats": {
+      "age": "31",
+      "height": "65.00",
+      "weight": "116.00",
+      "reach": "65.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.77",
+      "sig_str_absorbed_per_min": "3.88",
+      "takedown_avg_per_15min": "0.00",
+      "submission_avg_per_15min": "0.78",
+      "sig_str_defense_pct": "44%",
+      "takedown_defense_pct": "43%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "12:47"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "TOMAR",
+        "date": "Mar. 22, 2025",
+        "round": "2",
+        "time": "3:22",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "ARDELEAN",
+        "date": "Jul. 27, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      },
+      {
+        "opponent": "BRASIL",
+        "date": "Jul. 22, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Stephen Thompson": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/stephen-thompson",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/THOMPSON_STEPHEN_L_10-05.png?itok=7bPYYntz",
+    "finish_stats": {
+      "wins_by_ko": "8",
+      "wins_by_sub": "1",
+      "first_round_finishes": "5"
+    },
+    "physical_stats": {
+      "age": "42",
+      "height": "72.00",
+      "weight": "171.00",
+      "reach": "75.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.11",
+      "sig_str_absorbed_per_min": "3.02",
+      "takedown_avg_per_15min": "0.25",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "55%",
+      "takedown_defense_pct": "63%",
+      "knockdown_avg": "0.49",
+      "avg_fight_time": "14:30"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "BUCKLEY",
+        "date": "Oct. 5, 2024",
+        "round": "3",
+        "time": "2:17",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "RAKHMONOV",
+        "date": "Dec. 16, 2023",
+        "round": "2",
+        "time": "4:56",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "HOLLAND",
+        "date": "Dec. 3, 2022",
+        "round": "4",
+        "time": "5:00",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Steve Erceg": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/steve-erceg",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/ERCEG_STEVEN_L_08-17.png?itok=YU3VJrRs",
+    "finish_stats": {
+      "wins_by_ko": "2",
+      "wins_by_sub": "6",
+      "first_round_finishes": "5"
+    },
+    "physical_stats": {
+      "age": "29",
+      "height": "68.00",
+      "weight": "125.00",
+      "reach": "68.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.45",
+      "sig_str_absorbed_per_min": "4.03",
+      "takedown_avg_per_15min": "0.84",
+      "submission_avg_per_15min": "0.34",
+      "sig_str_defense_pct": "52%",
+      "takedown_defense_pct": "64%",
+      "knockdown_avg": "0.17",
+      "avg_fight_time": "14:55"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "MORENO",
+        "date": "Mar. 29, 2025",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "FRANCE",
+        "date": "Aug. 17, 2024",
+        "round": "1",
+        "time": "4:04",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "PANTOJA",
+        "date": "May. 4, 2024",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Steve Garcia": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/steve-garcia",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-09/GARCIA_STEVE_L_09-07.png?itok=iZAOS8kx",
+    "finish_stats": {
+      "wins_by_ko": "14",
+      "first_round_finishes": "8"
+    },
+    "physical_stats": {
+      "age": "32",
+      "height": "72.00",
+      "weight": "145.50",
+      "reach": "75.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "5.04",
+      "sig_str_absorbed_per_min": "2.34",
+      "takedown_avg_per_15min": "1.17",
+      "submission_avg_per_15min": "0.58",
+      "sig_str_defense_pct": "46%",
+      "takedown_defense_pct": "89%",
+      "knockdown_avg": "2.63",
+      "avg_fight_time": "05:08"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "NELSON",
+        "date": "Sep. 7, 2024",
+        "round": "1",
+        "time": "3:59",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "CHOI",
+        "date": "Jul. 20, 2024",
+        "round": "1",
+        "time": "1:36",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "COSTA",
+        "date": "Dec. 9, 2023",
+        "round": "2",
+        "time": "1:01",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Sumudaerji": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/sumudaerji",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-04/SUMUDAERJI_L_04-12.png?itok=hLmdJrrt",
+    "finish_stats": {
+      "wins_by_ko": "13",
+      "first_round_finishes": "11"
+    },
+    "physical_stats": {
+      "age": "29",
+      "height": "68.00",
+      "weight": "126.00",
+      "reach": "72.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.40",
+      "sig_str_absorbed_per_min": "2.63",
+      "takedown_avg_per_15min": "0.18",
+      "submission_avg_per_15min": "0.74",
+      "sig_str_defense_pct": "60%",
+      "takedown_defense_pct": "68%",
+      "knockdown_avg": "0.37",
+      "avg_fight_time": "10:10"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "MUDAERJI",
+        "date": "Apr. 12, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      },
+      {
+        "opponent": "JOHNSON",
+        "date": "Oct. 19, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "ELLIOTT",
+        "date": "Dec. 9, 2023",
+        "round": "1",
+        "time": "4:02",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "TBA": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/tba",
+    "profile_image_url": "",
+    "finish_stats": {},
+    "physical_stats": {},
+    "combat_stats": {},
+    "last_5_fights": []
+  },
+  "Tallison Teixeira": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/tallison-teixeira",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/TEIXEIRA_TALLISON_L.png?itok=biwF_cLL",
+    "finish_stats": {
+      "wins_by_ko": "7",
+      "wins_by_sub": "1",
+      "first_round_finishes": "8"
+    },
+    "physical_stats": {
+      "age": "25",
+      "height": "79.00",
+      "weight": "263.00",
+      "reach": "83.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "14.61",
+      "sig_str_absorbed_per_min": "7.50",
+      "takedown_avg_per_15min": "0.00",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "60%",
+      "knockdown_avg": "11.84",
+      "avg_fight_time": "01:16"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "TAFA",
+        "date": "Feb. 8, 2025",
+        "round": "1",
+        "time": "0:35",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Tatsuro Taira": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/tatsuro-taira",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/TAIRA_TATSURO_L_12-09.png?itok=AFbRhv1S",
+    "finish_stats": {
+      "wins_by_ko": "5",
+      "wins_by_sub": "7",
+      "first_round_finishes": "8"
+    },
+    "physical_stats": {
+      "age": "25",
+      "height": "67.00",
+      "weight": "125.50",
+      "reach": "70.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "2.99",
+      "sig_str_absorbed_per_min": "2.69",
+      "takedown_avg_per_15min": "2.73",
+      "submission_avg_per_15min": "1.64",
+      "sig_str_defense_pct": "47%",
+      "takedown_defense_pct": "45%",
+      "knockdown_avg": "0.36",
+      "avg_fight_time": "11:48"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "ROYVAL",
+        "date": "Oct. 12, 2024",
+        "round": "5",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "PEREZ",
+        "date": "Jun. 15, 2024",
+        "round": "2",
+        "time": "2:59",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "HERNANDEZ",
+        "date": "Dec. 9, 2023",
+        "round": "2",
+        "time": "0:55",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Tim Elliott": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/tim-elliott",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/ELLIOTT_TIM_L_12-09.png?itok=EWSHUqqi",
+    "finish_stats": {
+      "wins_by_ko": "3",
+      "wins_by_sub": "7",
+      "first_round_finishes": "6"
+    },
+    "physical_stats": {
+      "age": "38",
+      "height": "67.00",
+      "weight": "136.00",
+      "reach": "66.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "3.39",
+      "sig_str_absorbed_per_min": "2.66",
+      "takedown_avg_per_15min": "3.73",
+      "submission_avg_per_15min": "1.04",
+      "sig_str_defense_pct": "57%",
+      "takedown_defense_pct": "59%",
+      "knockdown_avg": "0.12",
+      "avg_fight_time": "12:15"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "MUDAERJI",
+        "date": "Dec. 9, 2023",
+        "round": "1",
+        "time": "4:02",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "MOKAEV",
+        "date": "Oct. 21, 2023",
+        "round": "3",
+        "time": "3:03",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "ALTAMIRANO",
+        "date": "Jun. 3, 2023",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Torrez Finney": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/torrez-finney",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-04/FINNEY_TORREZ_L_04-05.png?itok=96q4JJT6",
+    "finish_stats": {
+      "wins_by_ko": "7",
+      "wins_by_sub": "2",
+      "first_round_finishes": "5"
+    },
+    "physical_stats": {
+      "age": "26",
+      "height": "68.00",
+      "weight": "186.00",
+      "reach": "75.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "1.77",
+      "sig_str_absorbed_per_min": "1.74",
+      "takedown_avg_per_15min": "9.31",
+      "submission_avg_per_15min": "1.07",
+      "sig_str_defense_pct": "48%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "10:28"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "VALENTIN",
+        "date": "Apr. 5, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - SPLIT",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Toshiomi Kazama": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/toshiomi-kazama",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-08/KAZAMA_TOSHIOMI_L_08-10.png?itok=Zr7RrlCC",
+    "finish_stats": {
+      "wins_by_ko": "3",
+      "wins_by_sub": "6",
+      "first_round_finishes": "6"
+    },
+    "physical_stats": {
+      "age": "27",
+      "height": "67.00",
+      "weight": "148.00",
+      "reach": "69.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "1.72",
+      "sig_str_absorbed_per_min": "3.89",
+      "takedown_avg_per_15min": "1.68",
+      "submission_avg_per_15min": "0.56",
+      "sig_str_defense_pct": "43%",
+      "takedown_defense_pct": "67%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "06:41"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "GRIGORIOU",
+        "date": "Aug. 10, 2024",
+        "round": "2",
+        "time": "1:55",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "ARMFIELD",
+        "date": "Aug. 26, 2023",
+        "round": "1",
+        "time": "4:16",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "NAKAMURA",
+        "date": "Feb. 5, 2023",
+        "round": "1",
+        "time": "0:33",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Tresean Gore": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/tresean-gore",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-04/GORE_TRESEAN_L_04-12.png?itok=SUq0vTkU",
+    "finish_stats": {
+      "wins_by_ko": "2",
+      "wins_by_sub": "3",
+      "first_round_finishes": "3"
+    },
+    "physical_stats": {
+      "age": "30",
+      "height": "72.00",
+      "weight": "186.00",
+      "reach": "75.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "2.77",
+      "sig_str_absorbed_per_min": "8.16",
+      "takedown_avg_per_15min": "2.62",
+      "submission_avg_per_15min": "1.31",
+      "sig_str_defense_pct": "40%",
+      "takedown_defense_pct": "83%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "06:52"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "TULIO",
+        "date": "Apr. 12, 2025",
+        "round": "2",
+        "time": "3:16",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "TROCOLI",
+        "date": "Nov. 9, 2024",
+        "round": "1",
+        "time": "1:23",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "FREMD",
+        "date": "Oct. 29, 2022",
+        "round": "2",
+        "time": "0:49",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Tuco Tokkos": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/tuco-tokkos",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/TOKKOS_TUCO_L_05-18.png?itok=VzbAAGl-",
+    "finish_stats": {
+      "wins_by_ko": "6",
+      "wins_by_sub": "2",
+      "first_round_finishes": "6"
+    },
+    "physical_stats": {
+      "age": "34",
+      "height": "76.00",
+      "weight": "206.00",
+      "reach": "76.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "2.51",
+      "sig_str_absorbed_per_min": "4.99",
+      "takedown_avg_per_15min": "2.65",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "48%",
+      "takedown_defense_pct": "33%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "07:33"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "STIRLING",
+        "date": "Dec. 14, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "SY",
+        "date": "May. 18, 2024",
+        "round": "1",
+        "time": "3:43",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Uran Satybaldiev": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/uran-satybaldiev",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-04/SATYBALDIEV_URAN_R_04-05..png?itok=O66sZ7K_",
+    "finish_stats": {
+      "wins_by_ko": "5",
+      "wins_by_sub": "1",
+      "first_round_finishes": "2"
+    },
+    "physical_stats": {
+      "age": "30",
+      "height": "76.00",
+      "weight": "222.50",
+      "reach": "79.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "2.40",
+      "sig_str_absorbed_per_min": "3.87",
+      "takedown_avg_per_15min": "0.00",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "46%",
+      "takedown_defense_pct": "100%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "15:00"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "BUDAY",
+        "date": "Apr. 5, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Valter Walker": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/valter-walker",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-04/WALKER_VALTER_L_04-06.png?itok=K-zibp8S",
+    "finish_stats": {
+      "wins_by_ko": "6",
+      "wins_by_sub": "3",
+      "first_round_finishes": "6"
+    },
+    "physical_stats": {
+      "age": "27",
+      "height": "78.00",
+      "weight": "245.00",
+      "reach": "78.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "1.79",
+      "sig_str_absorbed_per_min": "3.02",
+      "takedown_avg_per_15min": "4.95",
+      "submission_avg_per_15min": "1.41",
+      "sig_str_defense_pct": "43%",
+      "knockdown_avg": "0.00",
+      "avg_fight_time": "07:04"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "MAYES",
+        "date": "Feb. 15, 2025",
+        "round": "1",
+        "time": "1:17",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "TAFA",
+        "date": "Aug. 17, 2024",
+        "round": "1",
+        "time": "4:56",
+        "method": "SUBMISSION",
+        "result": "WIN"
+      },
+      {
+        "opponent": "BRZESKI",
+        "date": "Apr. 6, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION- UNANIMOUS",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Vinicius Oliveira": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/vinicius-oliveira",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-02/OLIVIEIRA_VINICIUS_L_03-02.png?itok=ykX4vnt1",
+    "finish_stats": {
+      "wins_by_ko": "16",
+      "wins_by_sub": "2",
+      "first_round_finishes": "14"
+    },
+    "physical_stats": {
+      "age": "29",
+      "height": "69.00",
+      "weight": "135.00",
+      "reach": "70.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "4.92",
+      "sig_str_absorbed_per_min": "2.77",
+      "takedown_avg_per_15min": "1.89",
+      "submission_avg_per_15min": "0.31",
+      "sig_str_defense_pct": "53%",
+      "takedown_defense_pct": "76%",
+      "knockdown_avg": "0.63",
+      "avg_fight_time": "11:56"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "NURMAGOMEDOV",
+        "date": "Feb. 1, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "SIMON",
+        "date": "Jun. 29, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "SOPAJ",
+        "date": "Mar. 2, 2024",
+        "round": "3",
+        "time": "4:41",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Vitor Petrino": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/vitor-petrino",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/PETRINO_VITOR_L_12-14.png?itok=VN3exwpa",
+    "finish_stats": {
+      "wins_by_ko": "7",
+      "first_round_finishes": "4"
+    },
+    "physical_stats": {
+      "age": "27",
+      "height": "74.00",
+      "weight": "204.50",
+      "reach": "77.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "2.83",
+      "sig_str_absorbed_per_min": "2.71",
+      "takedown_avg_per_15min": "3.24",
+      "submission_avg_per_15min": "0.61",
+      "sig_str_defense_pct": "47%",
+      "takedown_defense_pct": "71%",
+      "knockdown_avg": "0.40",
+      "avg_fight_time": "10:35"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "JACOBY",
+        "date": "Dec. 14, 2024",
+        "round": "3",
+        "time": "3:44",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "SMITH",
+        "date": "May. 4, 2024",
+        "round": "1",
+        "time": "2:00",
+        "method": "SUBMISSION",
+        "result": "LOSS"
+      },
+      {
+        "opponent": "PEDRO",
+        "date": "Mar. 2, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Waldo Cortes-Acosta": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/waldo-cortes-acosta",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/CORTES-ACOSTA_WALDO_L_03-15.png?itok=8NGx7Lud",
+    "finish_stats": {
+      "wins_by_ko": "6",
+      "wins_by_sub": "1",
+      "first_round_finishes": "3"
+    },
+    "physical_stats": {
+      "age": "33",
+      "height": "76.00",
+      "weight": "265.00",
+      "reach": "70.00"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "5.98",
+      "sig_str_absorbed_per_min": "3.43",
+      "takedown_avg_per_15min": "0.42",
+      "submission_avg_per_15min": "0.14",
+      "sig_str_defense_pct": "56%",
+      "takedown_defense_pct": "67%",
+      "knockdown_avg": "0.42",
+      "avg_fight_time": "11:50"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "SPIVAC",
+        "date": "Jun. 7, 2025",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      },
+      {
+        "opponent": "CORTES ACOSTA",
+        "date": "Mar. 15, 2025",
+        "round": "2",
+        "time": "4:48",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "CORTES ACOSTA",
+        "date": "May. 11, 2024",
+        "round": "3",
+        "time": "5:00",
+        "method": "DECISION - UNANIMOUS",
+        "result": "WIN"
+      }
+    ]
+  },
+  "Yuneisy Duben": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/yuneisy-duben",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/DUBEN_YUNEISY_L_03-15.png?itok=x0gW_uLl",
+    "finish_stats": {
+      "wins_by_ko": "5",
+      "wins_by_sub": "1",
+      "first_round_finishes": "4"
+    },
+    "physical_stats": {
+      "age": "28",
+      "height": "64.00",
+      "weight": "125.50",
+      "reach": "65.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "13.53",
+      "sig_str_absorbed_per_min": "10.75",
+      "takedown_avg_per_15min": "0.00",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "54%",
+      "knockdown_avg": "5.20",
+      "avg_fight_time": "01:27"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "JUDICE",
+        "date": "Mar. 15, 2025",
+        "round": "1",
+        "time": "1:40",
+        "method": "KO/TKO",
+        "result": "LOSS"
+      }
+    ]
+  },
+  "Zhang Mingyang": {
+    "ufc_profile_url": "https://www.ufc.com/athlete/zhang-mingyang",
+    "profile_image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/MINGYANG_ZHANG_L_11-23.png?itok=-aHEtTUo",
+    "finish_stats": {
+      "wins_by_ko": "13",
+      "wins_by_sub": "6",
+      "first_round_finishes": "19"
+    },
+    "physical_stats": {
+      "age": "26",
+      "height": "74.00",
+      "weight": "206.00",
+      "reach": "75.50"
+    },
+    "combat_stats": {
+      "sig_str_landed_per_min": "10.91",
+      "sig_str_absorbed_per_min": "4.55",
+      "takedown_avg_per_15min": "0.00",
+      "submission_avg_per_15min": "0.00",
+      "sig_str_defense_pct": "53%",
+      "takedown_defense_pct": "50%",
+      "knockdown_avg": "3.72",
+      "avg_fight_time": "03:02"
+    },
+    "last_5_fights": [
+      {
+        "opponent": "SMITH",
+        "date": "Apr. 26, 2025",
+        "round": "1",
+        "time": "4:03",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "DIAZ",
+        "date": "Nov. 23, 2024",
+        "round": "1",
+        "time": "2:25",
+        "method": "KO/TKO",
+        "result": "WIN"
+      },
+      {
+        "opponent": "RIBEIRO",
+        "date": "Feb. 17, 2024",
+        "round": "1",
+        "time": "1:41",
+        "method": "KO/TKO",
+        "result": "WIN"
+      }
+    ]
+  }
+}

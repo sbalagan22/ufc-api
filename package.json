@@ -1,0 +1,33 @@
+{
+  "name": "ufc-event-schedule",
+  "version": "1.0.0",
+  "description": "A comprehensive UFC event schedule web application with real-time voting system, fighter profiles, AI analysis, and chatroom",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": [
+    "ufc",
+    "mma",
+    "voting",
+    "real-time",
+    "supabase",
+    "javascript",
+    "chat",
+    "ai-analysis"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ufc-event-schedule.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/ufc-event-schedule/issues"
+  },
+  "homepage": "https://github.com/yourusername/ufc-event-schedule#readme"
+} 

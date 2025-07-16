@@ -1,0 +1,1355 @@
+[
+  {
+    "event_name": "UFC 318: Holloway vs Poirier 3",
+    "event_date": "Jul 19",
+    "location": "Smoothie King Center, New Orleans, LA",
+    "main_card": [
+      {
+        "label": "main_event",
+        "fighters": [
+          {
+            "name": "Max Holloway",
+            "record": "26-8-0",
+            "odds": "-130"
+          },
+          {
+            "name": "Dustin Poirier",
+            "record": "30-9-0",
+            "odds": "+110"
+          }
+        ]
+      },
+      {
+        "label": "co_main",
+        "fighters": [
+          {
+            "name": "Paulo Costa",
+            "record": "14-4-0",
+            "odds": "+200"
+          },
+          {
+            "name": "Roman Kopylov",
+            "record": "14-3-0",
+            "odds": "-250"
+          }
+        ]
+      },
+      {
+        "label": "featured_bout",
+        "fighters": [
+          {
+            "name": "Kevin Holland",
+            "record": "28-13-0",
+            "odds": "-475"
+          },
+          {
+            "name": "Daniel Rodriguez",
+            "record": "19-5-0",
+            "odds": "+340"
+          }
+        ]
+      },
+      {
+        "label": "main_card_bout_4",
+        "fighters": [
+          {
+            "name": "Dan Ige",
+            "record": "19-9-0",
+            "odds": "-180"
+          },
+          {
+            "name": "Patricio Pitbull",
+            "record": "36-8-0",
+            "odds": "+150"
+          }
+        ]
+      },
+      {
+        "label": "main_card_bout_5",
+        "fighters": [
+          {
+            "name": "Michael Johnson",
+            "record": "24-19-0",
+            "odds": "+400"
+          },
+          {
+            "name": "Daniel Zellhuber",
+            "record": "15-2-0",
+            "odds": "-600"
+          }
+        ]
+      }
+    ],
+    "prelims": [
+      {
+        "label": "prelim_card_bout_1",
+        "fighters": [
+          {
+            "name": "Kyler Phillips",
+            "record": "12-3-0",
+            "odds": "+135"
+          },
+          {
+            "name": "Vinicius Oliveira",
+            "record": "22-3-0",
+            "odds": "-160"
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_2",
+        "fighters": [
+          {
+            "name": "Marvin Vettori",
+            "record": "19-8-1",
+            "odds": "+185"
+          },
+          {
+            "name": "Brendan Allen",
+            "record": "24-7-0",
+            "odds": "-225"
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_3",
+        "fighters": [
+          {
+            "name": "Francisco Prado",
+            "record": "12-3-0",
+            "odds": "-155"
+          },
+          {
+            "name": "Nikolay Veretennikov",
+            "record": "12-6-0",
+            "odds": "+130"
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_4",
+        "fighters": [
+          {
+            "name": "Ateba Gautier",
+            "record": "7-1-0",
+            "odds": "-575"
+          },
+          {
+            "name": "Robert Valentin",
+            "record": "11-5-0",
+            "odds": "+390"
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_5",
+        "fighters": [
+          {
+            "name": "Adam Fugitt",
+            "record": "10-4-0",
+            "odds": "+400"
+          },
+          {
+            "name": "Islam Dulatov",
+            "record": "11-1-0",
+            "odds": "-600"
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_6",
+        "fighters": [
+          {
+            "name": "Jimmy Crute",
+            "record": "12-4-2",
+            "odds": "-260"
+          },
+          {
+            "name": "Marcin Prachnio",
+            "record": "17-8-0",
+            "odds": "+210"
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_7",
+        "fighters": [
+          {
+            "name": "Ryan Spann",
+            "record": "22-11-0",
+            "odds": "-235"
+          },
+          {
+            "name": "Lukasz Brzeski",
+            "record": "9-6-1",
+            "odds": "+190"
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_8",
+        "fighters": [
+          {
+            "name": "Brunno Ferreira",
+            "record": "13-2-0",
+            "odds": "-800"
+          },
+          {
+            "name": "Jackson McVey",
+            "record": "6-0-0",
+            "odds": "+500"
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_9",
+        "fighters": [
+          {
+            "name": "Carli Judice",
+            "record": "4-2-0",
+            "odds": "-290"
+          },
+          {
+            "name": "Nicolle Caliari",
+            "record": "8-3-0",
+            "odds": "+235"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "UFC Fight Night: Whittaker vs. de Ridder",
+    "event_date": "Jul 26",
+    "location": "Etihad Arena, Abu Dhabi, United Arab Emirates",
+    "main_card": [
+      {
+        "label": "main_event",
+        "fighters": [
+          {
+            "name": "Robert Whittaker",
+            "record": "27-8-0",
+            "odds": "-140"
+          },
+          {
+            "name": "Reinier de Ridder",
+            "record": "20-2-0",
+            "odds": "+120"
+          }
+        ]
+      },
+      {
+        "label": "co_main",
+        "fighters": [
+          {
+            "name": "Movsar Evloev",
+            "record": "19-0-0",
+            "odds": null
+          },
+          {
+            "name": "Aaron Pico",
+            "record": "13-4-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "featured_bout",
+        "fighters": [
+          {
+            "name": "Petr Yan",
+            "record": "18-5-0",
+            "odds": "-380"
+          },
+          {
+            "name": "Marcus McGhee",
+            "record": "10-1-0",
+            "odds": "+290"
+          }
+        ]
+      },
+      {
+        "label": "main_card_bout_4",
+        "fighters": [
+          {
+            "name": "Bryce Mitchell",
+            "record": "17-4-0",
+            "odds": null
+          },
+          {
+            "name": "Said Nurmagomedov",
+            "record": "18-4-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "main_card_bout_5",
+        "fighters": [
+          {
+            "name": "Shara Magomedov",
+            "record": "15-1-0",
+            "odds": "-550"
+          },
+          {
+            "name": "Marc-Andre Barriault",
+            "record": "17-9-0",
+            "odds": "+375"
+          }
+        ]
+      }
+    ],
+    "prelims": [
+      {
+        "label": "prelim_card_bout_1",
+        "fighters": [
+          {
+            "name": "Nikita Krylov",
+            "record": "30-10-0",
+            "odds": null
+          },
+          {
+            "name": "Bogdan Guskov",
+            "record": "17-3-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_2",
+        "fighters": [
+          {
+            "name": "Amanda Ribas",
+            "record": "13-6-0",
+            "odds": null
+          },
+          {
+            "name": "Tabatha Ricci",
+            "record": "11-3-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_3",
+        "fighters": [
+          {
+            "name": "Ibo Aslan",
+            "record": "14-2-0",
+            "odds": null
+          },
+          {
+            "name": "Billy Elekana",
+            "record": "7-2-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_4",
+        "fighters": [
+          {
+            "name": "Asu Almabayev",
+            "record": "21-3-0",
+            "odds": null
+          },
+          {
+            "name": "Ramazan Temirov",
+            "record": "19-3-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_5",
+        "fighters": [
+          {
+            "name": "Mohammad Yahya",
+            "record": "12-5-0",
+            "odds": null
+          },
+          {
+            "name": "Steven Nguyen",
+            "record": "9-2-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_6",
+        "fighters": [
+          {
+            "name": "Muslim Salikhov",
+            "record": "21-5-0",
+            "odds": null
+          },
+          {
+            "name": "Carlos Leal",
+            "record": "22-6-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_7",
+        "fighters": [
+          {
+            "name": "Davey Grant",
+            "record": "16-7-0",
+            "odds": null
+          },
+          {
+            "name": "Da'Mon Blackshear",
+            "record": "17-7-1",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_8",
+        "fighters": [
+          {
+            "name": "Martin Buday",
+            "record": "15-2-0",
+            "odds": null
+          },
+          {
+            "name": "Marcus Buchecha",
+            "record": "5-1-0",
+            "odds": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "UFC Fight Night: Albazi vs. Taira",
+    "event_date": "Aug 2",
+    "location": "UFC APEX, Las Vegas, NV",
+    "main_card": [
+      {
+        "label": "main_event",
+        "fighters": [
+          {
+            "name": "Amir Albazi",
+            "record": "17-2-0",
+            "odds": null
+          },
+          {
+            "name": "Tatsuro Taira",
+            "record": "16-1-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "co_main",
+        "fighters": [
+          {
+            "name": "Karol Rosa",
+            "record": "18-7-0",
+            "odds": null
+          },
+          {
+            "name": "Nora Cornolle",
+            "record": "9-2-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "featured_bout",
+        "fighters": [
+          {
+            "name": "Rodolfo Vieira",
+            "record": "10-3-0",
+            "odds": null
+          },
+          {
+            "name": "Tresean Gore",
+            "record": "6-3-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "main_card_bout_4",
+        "fighters": [
+          {
+            "name": "Andre Lima",
+            "record": "11-0-0",
+            "odds": null
+          },
+          {
+            "name": "Felipe Bunes",
+            "record": "14-7-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "main_card_bout_5",
+        "fighters": [
+          {
+            "name": "Piera Rodriguez",
+            "record": "10-2-0",
+            "odds": null
+          },
+          {
+            "name": "Ketlen Souza",
+            "record": "15-5-0",
+            "odds": null
+          }
+        ]
+      }
+    ],
+    "prelims": [
+      {
+        "label": "prelim_card_bout_1",
+        "fighters": [
+          {
+            "name": "Azamat Bekoev",
+            "record": "20-3-0",
+            "odds": null
+          },
+          {
+            "name": "Torrez Finney",
+            "record": "11-0-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_2",
+        "fighters": [
+          {
+            "name": "Nick Klein",
+            "record": "6-2-0",
+            "odds": null
+          },
+          {
+            "name": "Andrey Pulyaev",
+            "record": "9-3-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_3",
+        "fighters": [
+          {
+            "name": "Rinya Nakamura",
+            "record": "9-1-0",
+            "odds": null
+          },
+          {
+            "name": "Nathan Fletcher",
+            "record": "9-2-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_4",
+        "fighters": [
+          {
+            "name": "Elves Brener",
+            "record": "16-5-0",
+            "odds": null
+          },
+          {
+            "name": "Esteban Ribovics",
+            "record": "14-2-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_5",
+        "fighters": [
+          {
+            "name": "Chris Duncan",
+            "record": "13-2-0",
+            "odds": null
+          },
+          {
+            "name": "Mateusz Rębecki",
+            "record": "20-2-0",
+            "odds": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "UFC Fight Night: Dolidze vs. Hernandez",
+    "event_date": "Aug 9",
+    "location": "UFC APEX, Las Vegas, NV",
+    "main_card": [
+      {
+        "label": "main_event",
+        "fighters": [
+          {
+            "name": "Roman Dolidze",
+            "record": "15-3-0",
+            "odds": null
+          },
+          {
+            "name": "Anthony Hernandez",
+            "record": "14-2-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "co_main",
+        "fighters": [
+          {
+            "name": "Alex Perez",
+            "record": "25-9-0",
+            "odds": null
+          },
+          {
+            "name": "Steve Erceg",
+            "record": "12-4-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "featured_bout",
+        "fighters": [
+          {
+            "name": "Elijah Smith",
+            "record": "8-1-0",
+            "odds": null
+          },
+          {
+            "name": "Toshiomi Kazama",
+            "record": "11-4-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "main_card_bout_4",
+        "fighters": [
+          {
+            "name": "Miles Johns",
+            "record": "15-3-0",
+            "odds": null
+          },
+          {
+            "name": "Jean Matsumoto",
+            "record": "16-1-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "main_card_bout_5",
+        "fighters": [
+          {
+            "name": "Andre Fili",
+            "record": "24-12-0",
+            "odds": null
+          },
+          {
+            "name": "Christian Rodriguez",
+            "record": "12-3-0",
+            "odds": null
+          }
+        ]
+      }
+    ],
+    "prelims": [
+      {
+        "label": "prelim_card_bout_1",
+        "fighters": [
+          {
+            "name": "Gabriella Fernandes",
+            "record": "10-3-0",
+            "odds": null
+          },
+          {
+            "name": "Julija Stoliarenko",
+            "record": "11-9-2",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_2",
+        "fighters": [
+          {
+            "name": "Joselyne Edwards",
+            "record": "15-6-0",
+            "odds": null
+          },
+          {
+            "name": "Priscila Cachoeira",
+            "record": "13-6-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_3",
+        "fighters": [
+          {
+            "name": "Eryk Anders",
+            "record": "17-8-0",
+            "odds": null
+          },
+          {
+            "name": "Christian Leroy Duncan",
+            "record": "11-2-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_4",
+        "fighters": [
+          {
+            "name": "Iasmin Lucindo",
+            "record": "17-6-0",
+            "odds": null
+          },
+          {
+            "name": "Angela Hill",
+            "record": "18-14-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_5",
+        "fighters": [
+          {
+            "name": "Julius Walker",
+            "record": "6-1-0",
+            "odds": null
+          },
+          {
+            "name": "Rafael Cerqueira",
+            "record": "11-2-0",
+            "odds": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "UFC 319: Du Plessis vs. Chimaev",
+    "event_date": "Aug 16",
+    "location": "United Center, Chicago, IL",
+    "main_card": [
+      {
+        "label": "main_event",
+        "fighters": [
+          {
+            "name": "Dricus Du Plessis",
+            "record": "23-2-0",
+            "odds": "+150"
+          },
+          {
+            "name": "Khamzat Chimaev",
+            "record": "14-0-0",
+            "odds": "-180"
+          }
+        ]
+      },
+      {
+        "label": "co_main",
+        "fighters": [
+          {
+            "name": "Jared Cannonier",
+            "record": "18-8-0",
+            "odds": null
+          },
+          {
+            "name": "Michael Page",
+            "record": "23-3-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "featured_bout",
+        "fighters": [
+          {
+            "name": "Tim Elliott",
+            "record": "21-13-1",
+            "odds": null
+          },
+          {
+            "name": "Kai Asakura",
+            "record": "21-5-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "main_card_bout_4",
+        "fighters": [
+          {
+            "name": "Karine Silva",
+            "record": "18-5-0",
+            "odds": null
+          },
+          {
+            "name": "JJ Aldrich",
+            "record": "14-7-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "main_card_bout_5",
+        "fighters": [
+          {
+            "name": "Jessica Andrade",
+            "record": "26-14-0",
+            "odds": null
+          },
+          {
+            "name": "Loopy Godínez",
+            "record": "13-5-0",
+            "odds": null
+          }
+        ]
+      }
+    ],
+    "prelims": [
+      {
+        "label": "prelim_card_bout_1",
+        "fighters": [
+          {
+            "name": "Edson Barboza",
+            "record": "24-12-0",
+            "odds": null
+          },
+          {
+            "name": "Drakkar Klose",
+            "record": "15-3-1",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_2",
+        "fighters": [
+          {
+            "name": "King Green",
+            "record": "32-17-1",
+            "odds": null
+          },
+          {
+            "name": "Diego Ferreira",
+            "record": "19-6-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_3",
+        "fighters": [
+          {
+            "name": "Bryan Battle",
+            "record": "13-2-0",
+            "odds": null
+          },
+          {
+            "name": "Nursulton Ruziboev",
+            "record": "36-9-2",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_4",
+        "fighters": [
+          {
+            "name": "Chase Hooper",
+            "record": "16-3-1",
+            "odds": null
+          },
+          {
+            "name": "Alexander Hernandez",
+            "record": "16-8-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_5",
+        "fighters": [
+          {
+            "name": "Gerald Meerschaert",
+            "record": "37-19-0",
+            "odds": null
+          },
+          {
+            "name": "Michal Oleksiejczuk",
+            "record": "20-9-0",
+            "odds": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "UFC Fight Night: Walker vs. Zhang",
+    "event_date": "Aug 23",
+    "location": "Mercedes-Benz Arena, Shanghai, China",
+    "main_card": [
+      {
+        "label": "main_event",
+        "fighters": [
+          {
+            "name": "Johnny Walker",
+            "record": "21-9-0",
+            "odds": null
+          },
+          {
+            "name": "Zhang Mingyang",
+            "record": "19-6-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "co_main",
+        "fighters": [
+          {
+            "name": "Brian Ortega",
+            "record": "16-4-0",
+            "odds": null
+          },
+          {
+            "name": "Aljamain Sterling",
+            "record": "24-5-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "featured_bout",
+        "fighters": [
+          {
+            "name": "Sergei Pavlovich",
+            "record": "19-3-0",
+            "odds": null
+          },
+          {
+            "name": "Waldo Cortes-Acosta",
+            "record": "14-1-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "main_card_bout_4",
+        "fighters": [
+          {
+            "name": "Lone'er Kavanagh",
+            "record": "9-0-0",
+            "odds": null
+          },
+          {
+            "name": "Charles Johnson",
+            "record": "17-7-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "main_card_bout_5",
+        "fighters": [
+          {
+            "name": "Sumudaerji",
+            "record": "17-7-0",
+            "odds": null
+          },
+          {
+            "name": "Kevin Borjas",
+            "record": "10-3-0",
+            "odds": null
+          }
+        ]
+      }
+    ],
+    "prelims": [
+      {
+        "label": "prelim_card_bout_1",
+        "fighters": [
+          {
+            "name": "Marco Tulio",
+            "record": "14-1-0",
+            "odds": null
+          },
+          {
+            "name": "Michel Pereira",
+            "record": "31-13-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_2",
+        "fighters": [
+          {
+            "name": "Uran Satybaldiev",
+            "record": "9-1-0",
+            "odds": null
+          },
+          {
+            "name": "Diyar Nurgozhay",
+            "record": "10-1-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_3",
+        "fighters": [
+          {
+            "name": "Song Kenan",
+            "record": "22-9-0",
+            "odds": null
+          },
+          {
+            "name": "Kiefer Crosbie",
+            "record": "10-5-0",
+            "odds": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "UFC Fight Night: Imavov vs. Borralho",
+    "event_date": "Sep 6",
+    "location": "Accor Arena, Paris, France",
+    "main_card": [
+      {
+        "label": "main_event",
+        "fighters": [
+          {
+            "name": "Nassourdine Imavov",
+            "record": "16-4-0",
+            "odds": null
+          },
+          {
+            "name": "Caio Borralho",
+            "record": "17-1-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "co_main",
+        "fighters": [
+          {
+            "name": "Andreas Gustafsson",
+            "record": "12-2-0",
+            "odds": null
+          },
+          {
+            "name": "Rinat Fakhretdinov",
+            "record": "23-1-1",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "featured_bout",
+        "fighters": [
+          {
+            "name": "Marcin Tybura",
+            "record": "27-9-0",
+            "odds": null
+          },
+          {
+            "name": "Ante Delija",
+            "record": "25-6-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "main_card_bout_4",
+        "fighters": [
+          {
+            "name": "Shauna Bannon",
+            "record": "7-1-0",
+            "odds": null
+          },
+          {
+            "name": "Sam Hughes",
+            "record": "10-6-0",
+            "odds": null
+          }
+        ]
+      }
+    ],
+    "prelims": [
+      {
+        "label": "prelim_card_bout_1",
+        "fighters": [
+          {
+            "name": "Bolaji Oki",
+            "record": "10-2-0",
+            "odds": null
+          },
+          {
+            "name": "Mason Jones",
+            "record": "16-2-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_2",
+        "fighters": [
+          {
+            "name": "Kennedy Freeman",
+            "record": "6-0-0",
+            "odds": null
+          },
+          {
+            "name": "Yuneisy Duben",
+            "record": "6-1-0",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_3",
+        "fighters": [
+          {
+            "name": "Modestas Bukauskas",
+            "record": "18-6-0",
+            "odds": null
+          },
+          {
+            "name": "Paul Craig",
+            "record": "17-9-1",
+            "odds": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Noche UFC: Lopes vs. Silva",
+    "event_date": "Sep 13",
+    "location": "Frost Bank Center, San Antonio, TX",
+    "main_card": [
+      {
+        "label": "main_event",
+        "fighters": [
+          {
+            "name": "Diego Lopes",
+            "record": "26-7-0",
+            "odds": null
+          },
+          {
+            "name": "Jean Silva",
+            "record": "16-2-0",
+            "odds": null
+          }
+        ]
+      }
+    ],
+    "prelims": [
+      {
+        "label": "prelim_card_bout_1",
+        "fighters": [
+          {
+            "name": "Opponent TBA",
+            "record": "",
+            "odds": null
+          },
+          {
+            "name": "TBA",
+            "record": "",
+            "odds": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "UFC 320",
+    "event_date": "Oct 4",
+    "location": "T-Mobile Arena, Las Vegas, NV",
+    "main_card": [
+      {
+        "label": "main_event",
+        "fighters": [
+          {
+            "name": "TBA",
+            "record": "",
+            "odds": null
+          },
+          {
+            "name": "Opponent TBA",
+            "record": "",
+            "odds": null
+          }
+        ]
+      }
+    ],
+    "prelims": [
+      {
+        "label": "prelim_card_bout_1",
+        "fighters": [
+          {
+            "name": "TBA",
+            "record": "",
+            "odds": null
+          },
+          {
+            "name": "Opponent TBA",
+            "record": "",
+            "odds": null
+          }
+        ]
+      },
+      {
+        "label": "prelim_card_bout_2",
+        "fighters": [
+          {
+            "name": "TBA",
+            "record": "",
+            "odds": null
+          },
+          {
+            "name": "Opponent TBA",
+            "record": "",
+            "odds": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "UFC Fight Night: Vancouver",
+    "event_date": "Oct 18",
+    "location": "Rogers Arena, Vancouver, BC, Canada",
+    "main_card": [
+      {
+        "label": "main_event",
+        "fighters": [
+          {
+            "name": "Opponent TBA",
+            "record": "",
+            "odds": null
+          },
+          {
+            "name": "TBA",
+            "record": "",
+            "odds": null
+          }
+        ]
+      }
+    ],
+    "prelims": [
+      {
+        "label": "prelim_card_bout_1",
+        "fighters": [
+          {
+            "name": "Opponent TBA",
+            "record": "",
+            "odds": null
+          },
+          {
+            "name": "TBA",
+            "record": "",
+            "odds": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "UFC 321",
+    "event_date": "Oct 25",
+    "location": "Etihad Arena, Abu Dhabi, United Arab Emirates",
+    "main_card": [
+      {
+        "label": "main_event",
+        "fighters": [
+          {
+            "name": "TBA",
+            "record": "",
+            "odds": null
+          },
+          {
+            "name": "Opponent TBA",
+            "record": "",
+            "odds": null
+          }
+        ]
+      }
+    ],
+    "prelims": [
+      {
+        "label": "prelim_card_bout_1",
+        "fighters": [
+          {
+            "name": "TBA",
+            "record": "",
+            "odds": null
+          },
+          {
+            "name": "Opponent TBA",
+            "record": "",
+            "odds": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "UFC Fight Night: Qatar",
+    "event_date": "Nov 22",
+    "location": "ABHA Arena, Doha, Qatar",
+    "main_card": [
+      {
+        "label": "main_event",
+        "fighters": [
+          {
+            "name": "TBA",
+            "record": "",
+            "odds": null
+          },
+          {
+            "name": "Opponent TBA",
+            "record": "",
+            "odds": null
+          }
+        ]
+      }
+    ],
+    "prelims": [
+      {
+        "label": "prelim_card_bout_1",
+        "fighters": [
+          {
+            "name": "TBA",
+            "record": "",
+            "odds": null
+          },
+          {
+            "name": "Opponent TBA",
+            "record": "",
+            "odds": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,141 @@
+{
+  "event_date": "2025-07-12",
+  "event_name": "UFC Fight Night: Lewis vs. Teixeira",
+  "event_date_str": "Jul 12",
+  "event_location": "Bridgestone Arena, Nashville, TN",
+  "event_link": "https://www.espn.com/mma/fightcenter/_/id/600054061/league/ufc",
+  "bouts": [
+    {
+      "fighters": [
+        "Derrick Lewis",
+        "Tallison Teixeira"
+      ],
+      "label": "Heavyweight - Main Event",
+      "winner": "Derrick Lewis",
+      "method": "KO/TKO",
+      "round": "R1",
+      "time": "0:35"
+    },
+    {
+      "fighters": [
+        "Stephen Thompson",
+        "Gabriel Bonfim"
+      ],
+      "label": "Welterweight",
+      "winner": "Gabriel Bonfim",
+      "method": "S Dec",
+      "round": "R3",
+      "time": "5:00"
+    },
+    {
+      "fighters": [
+        "Calvin Kattar",
+        "Steve Garcia"
+      ],
+      "label": "Featherweight",
+      "winner": "Steve Garcia",
+      "method": "U Dec",
+      "round": "R3",
+      "time": "5:00"
+    },
+    {
+      "fighters": [
+        "Nate Landwehr",
+        "Morgan Charrière"
+      ],
+      "label": "Featherweight",
+      "winner": "Morgan Charrière",
+      "method": "KO/TKO",
+      "round": "R3",
+      "time": "0:27"
+    },
+    {
+      "fighters": [
+        "Vitor Petrino",
+        "Austen Lane"
+      ],
+      "label": "Heavyweight",
+      "winner": "Vitor Petrino",
+      "method": "Sub",
+      "round": "R1",
+      "time": "4:16"
+    },
+    {
+      "fighters": [
+        "Junior Tafa",
+        "Tuco Tokkos"
+      ],
+      "label": "Light Heavyweight",
+      "winner": "Tuco Tokkos",
+      "method": "Sub",
+      "round": "R2",
+      "time": "4:25"
+    },
+    {
+      "fighters": [
+        "Max Griffin",
+        "Chris Curtis"
+      ],
+      "label": "Welterweight",
+      "winner": "Chris Curtis",
+      "method": "S Dec",
+      "round": "R3",
+      "time": "5:00"
+    },
+    {
+      "fighters": [
+        "Jake Matthews",
+        "Chidi Njokuani"
+      ],
+      "label": "Welterweight",
+      "winner": "Jake Matthews",
+      "method": "Sub",
+      "round": "R1",
+      "time": "1:09"
+    },
+    {
+      "fighters": [
+        "Lauren Murphy",
+        "Eduarda Moura"
+      ],
+      "label": "Women's Flyweight",
+      "winner": "Eduarda Moura",
+      "method": "U Dec",
+      "round": "R3",
+      "time": "5:00"
+    },
+    {
+      "fighters": [
+        "Kennedy Nzechukwu",
+        "Valter Walker"
+      ],
+      "label": "Heavyweight",
+      "winner": "Valter Walker",
+      "method": "Sub",
+      "round": "R1",
+      "time": "0:54"
+    },
+    {
+      "fighters": [
+        "Mitch Ramirez",
+        "Mike Davis"
+      ],
+      "label": "Lightweight",
+      "winner": "Mike Davis",
+      "method": "KO/TKO",
+      "round": "R2",
+      "time": "4:08"
+    },
+    {
+      "fighters": [
+        "Fatima Kline",
+        "Melissa Martinez"
+      ],
+      "label": "Women's Strawweight",
+      "winner": "Fatima Kline",
+      "method": "KO/TKO",
+      "round": "R3",
+      "time": "2:36"
+    }
+  ]
+}

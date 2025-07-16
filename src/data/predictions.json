@@ -1,0 +1,240 @@
+[
+  {
+    "event_name": "UFC 318: Holloway vs Poirier 3",
+    "label": "main_event",
+    "fighters": [
+      "Max Holloway",
+      "Dustin Poirier"
+    ],
+    "winner": "Dustin Poirier",
+    "method": "KO/TKO",
+    "reasoning": "Overall: Dustin Poirier's power and diverse finishing ability give him the edge over Max Holloway's high-volume striking.\n- Poirier has a higher knockdown average (0.62 vs 0.34).\n- Holloway suffered a recent KO/TKO loss, potentially impacting his renowned durability.\n- Poirier's stronger grappling metrics (1.24 TD Avg, 1.28 Sub Avg) provide an alternative win condition.\nConclusion: Poirier's power and versatile skillset are likely to overwhelm Holloway, leading to a finish.",
+    "moneyline_odds": {
+      "Dustin Poirier": "-160"
+    },
+    "method_odds": {
+      "KO/TKO": "+220"
+    }
+  },
+  {
+    "event_name": "UFC 318: Holloway vs Poirier 3",
+    "label": "co_main",
+    "fighters": [
+      "Paulo Costa",
+      "Roman Kopylov"
+    ],
+    "winner": "Roman Kopylov",
+    "method": "KO/TKO",
+    "reasoning": "Overall: Kopylov holds advantages in striking efficiency and recent form.\n- Kopylov's higher knockdown average (0.88) and better striking defense (55%) give him the edge.\n- Costa absorbs more strikes (6.56 SApM) and has a lower defense (49%).\n- Kopylov is coming off a KO win, while Costa has 2 recent decision losses.\nConclusion: Kopylov's power and defensive striking should secure a TKO victory.",
+    "moneyline_odds": {
+      "Roman Kopylov": "-200"
+    },
+    "method_odds": {
+      "KO/TKO": "+150"
+    }
+  },
+  {
+    "event_name": "UFC 318: Holloway vs Poirier 3",
+    "label": "featured_bout",
+    "fighters": [
+      "Kevin Holland",
+      "Daniel Rodriguez"
+    ],
+    "winner": "Kevin Holland",
+    "method": "KO/TKO",
+    "reasoning": "Overall: Kevin Holland is favored due to significant physical advantages and superior, more efficient striking against a declining opponent.\n- Holland has a massive 7-inch reach advantage, enabling him to control striking distance.\n- His striking is more accurate (54% vs 46%) and he absorbs fewer strikes (2.87 vs 4.29 SApM).\n- Rodriguez, at 37, is coming off two decisive stoppage losses by TKO and Submission.\nConclusion: Holland's physical edge and striking prowess will lead to a dominant TKO victory.",
+    "moneyline_odds": {
+      "Kevin Holland": "-280"
+    },
+    "method_odds": {
+      "KO/TKO": "-180"
+    }
+  },
+  {
+    "event_name": "UFC 318: Holloway vs Poirier 3",
+    "label": "main_card_bout_4",
+    "fighters": [
+      "Dan Ige",
+      "Patricio Pitbull"
+    ],
+    "winner": "Dan Ige",
+    "method": "KO/TKO",
+    "reasoning": "Overall: Dan Ige is heavily favored due to a complete statistical advantage and recent finishing momentum.\n- Ige's strong striking offense (3.67 SLpM, 0.47 KD Avg).\n- High finish rate with recent KO/TKO win.\n- Fighter B's complete lack of data.\nConclusion: Ige's striking power will secure a dominant victory.",
+    "moneyline_odds": {
+      "Dan Ige": "-1200"
+    },
+    "method_odds": {
+      "KO/TKO": "-220"
+    }
+  },
+  {
+    "event_name": "UFC 318: Holloway vs Poirier 3",
+    "label": "main_card_bout_5",
+    "fighters": [
+      "Michael Johnson",
+      "Daniel Zellhuber"
+    ],
+    "winner": "Michael Johnson",
+    "method": "KO/TKO",
+    "reasoning": "Overall: Michael Johnson's power and recent form will overcome Zellhuber's volume and youth.\n- Johnson holds a higher knockdown average (0.52).\n- Zellhuber's high strikes absorbed per minute (6.02) exposes him.\n- Johnson's recent TKO victory confirms his finishing ability.\nConclusion: Johnson will likely find a finish via strikes.",
+    "moneyline_odds": {
+      "Michael Johnson": "+150"
+    },
+    "method_odds": {
+      "KO/TKO": "+250"
+    }
+  },
+  {
+    "event_name": "UFC 318: Holloway vs Poirier 3",
+    "label": "prelim_card_bout_1",
+    "fighters": [
+      "Kyler Phillips",
+      "Vinicius Oliveira"
+    ],
+    "winner": "Kyler Phillips",
+    "method": "Decision",
+    "reasoning": "Overall: Kyler Phillips' superior defense and well-rounded skill set give him an edge over Oliveira's power.\n- Phillips' 61% strike defense will mitigate Oliveira's KO threat.\n- Phillips offers more offensive grappling (2.63 TD Avg) creating multi-faceted attacks.\n- Both fighters show durability and have recently gone to decision.\nConclusion: Phillips' defensive prowess and varied offense should lead to a decision win.",
+    "moneyline_odds": {
+      "Kyler Phillips": "-160"
+    },
+    "method_odds": {
+      "Decision": "-150"
+    }
+  },
+  {
+    "event_name": "UFC 318: Holloway vs Poirier 3",
+    "label": "prelim_card_bout_2",
+    "fighters": [
+      "Marvin Vettori",
+      "Brendan Allen"
+    ],
+    "winner": "Marvin Vettori",
+    "method": "Decision",
+    "reasoning": "Overall: Marvin Vettori's strong defense and durable style will likely prevail against Brendan Allen.\n- Vettori's 70% takedown defense neutralizes Allen's submission threat.\n- Vettori has better significant strike defense (57% vs 46%) and higher volume.\n- Vettori's fights frequently go to decision due to his durability.\nConclusion: Vettori outpoints Allen in a grind.",
+    "moneyline_odds": {
+      "Marvin Vettori": "-150"
+    },
+    "method_odds": {
+      "Decision": "-120"
+    }
+  },
+  {
+    "event_name": "UFC 318: Holloway vs Poirier 3",
+    "label": "prelim_card_bout_3",
+    "fighters": [
+      "Francisco Prado",
+      "Nikolay Veretennikov"
+    ],
+    "winner": "Francisco Prado",
+    "method": "KO/TKO",
+    "reasoning": "Overall: Francisco Prado's superior defense and high finish rate position him as the favorite.\n- Prado's 85% TDD will neutralize Veretennikov's grappling game.\n- Prado boasts higher striking accuracy and defense, absorbing less damage.\n- Prado's 100% finish rate in wins, with 83% by KO/TKO, indicates high finishing power.\nConclusion: Prado's defensive skills and potent striking make him likely to find a KO/TKO victory.",
+    "moneyline_odds": {
+      "Francisco Prado": "-220"
+    },
+    "method_odds": {
+      "KO/TKO": "-180"
+    }
+  },
+  {
+    "event_name": "UFC 318: Holloway vs Poirier 3",
+    "label": "prelim_card_bout_4",
+    "fighters": [
+      "Ateba Gautier",
+      "Robert Valentin"
+    ],
+    "winner": "Ateba Gautier",
+    "method": "KO/TKO",
+    "reasoning": "Overall: Ateba Gautier is a dominant striker with elite finishing power.\n- High SLpM (6.06) & exceptional knockdown average (2.39).\n- Excellent takedown defense (91%) nullifies any grappling threat.\n- Fighter B's complete lack of data makes Gautier the overwhelming favorite.\nConclusion: Gautier's striking dominance and finishing ability will secure a KO/TKO win.",
+    "moneyline_odds": {
+      "Ateba Gautier": "-900"
+    },
+    "method_odds": {
+      "KO/TKO": "-400"
+    }
+  },
+  {
+    "event_name": "UFC 318: Holloway vs Poirier 3",
+    "label": "prelim_card_bout_5",
+    "fighters": [
+      "Adam Fugitt",
+      "Islam Dulatov"
+    ],
+    "winner": "Islam Dulatov",
+    "method": "KO/TKO",
+    "reasoning": "Overall: Islam Dulatov's youthful aggression and overwhelming offensive metrics are likely to overpower the veteran Adam Fugitt.\n- Dulatov's exceptional SLpM (14.27) and high TD Avg (5.49) indicate constant pressure.\n- Fugitt's 50% TDD and recent split decision win suggest vulnerability to such pace.\n- Dulatov's short average fight time (2:44) points to an early finish.\nConclusion: Dulatov's relentless offense should lead to a TKO victory.",
+    "moneyline_odds": {
+      "Islam Dulatov": "-180"
+    },
+    "method_odds": {
+      "KO/TKO": "-150"
+    }
+  },
+  {
+    "event_name": "UFC 318: Holloway vs Poirier 3",
+    "label": "prelim_card_bout_6",
+    "fighters": [
+      "Jimmy Crute",
+      "Marcin Prachnio"
+    ],
+    "winner": "Jimmy Crute",
+    "method": "Submission",
+    "reasoning": "Overall: Jimmy Crute holds a significant grappling advantage over Marcin Prachnio and is likely to capitalize on it.\n- Crute has strong takedown and submission offense (3.86 TD A, 1.62 Sub A).\n- Prachnio has poor grappling offense (0.15 TD A, 0.00 Sub A) and recent submission losses.\n- Crute is significantly younger (28 vs 36) with higher power (0.81 KD avg).\nConclusion: Crute's submission prowess against Prachnio's grappling weakness will be decisive.",
+    "moneyline_odds": {
+      "Jimmy Crute": "-220"
+    },
+    "method_odds": {
+      "Submission": "-150"
+    }
+  },
+  {
+    "event_name": "UFC 318: Holloway vs Poirier 3",
+    "label": "prelim_card_bout_7",
+    "fighters": [
+      "Ryan Spann",
+      "Lukasz Brzeski"
+    ],
+    "winner": "Lukasz Brzeski",
+    "method": "Decision",
+    "reasoning": "Overall: Brzeski's consistent pressure and durability will likely outlast Spann's early offense.\n- Spann is on a 3-fight losing streak with recent finishes against him.\n- Brzeski shows higher striking volume and lands more effectively.\n- Brzeski's durability and decision-heavy fight history contrast with Spann's recent vulnerability.\nConclusion: Brzeski's resilience and pace will secure a decision win.",
+    "moneyline_odds": {
+      "Lukasz Brzeski": "-180"
+    },
+    "method_odds": {
+      "Decision": "+170"
+    }
+  },
+  {
+    "event_name": "UFC 318: Holloway vs Poirier 3",
+    "label": "prelim_card_bout_8",
+    "fighters": [
+      "Brunno Ferreira",
+      "Jackson McVey"
+    ],
+    "winner": "Brunno Ferreira",
+    "method": "KO/TKO",
+    "reasoning": "Overall: Brunno Ferreira's proven finishing ability and striking metrics make him a dominant favorite against an opponent with no available data.\n- Ferreira boasts a 100% finish rate (9 KO/TKO, 4 Sub).\n- His 1.52 knockdown average per 15 minutes highlights powerful striking.\n- Jackson McVey's profile lacks any combat metrics or history.\nConclusion: Ferreira's proven UFC-level performance likely leads to a quick finish via KO/TKO.",
+    "moneyline_odds": {
+      "Brunno Ferreira": "-900"
+    },
+    "method_odds": {
+      "KO/TKO": "-200"
+    }
+  },
+  {
+    "event_name": "UFC 318: Holloway vs Poirier 3",
+    "label": "prelim_card_bout_9",
+    "fighters": [
+      "Carli Judice",
+      "Nicolle Caliari"
+    ],
+    "winner": "Carli Judice",
+    "method": "KO/TKO",
+    "reasoning": "Overall: Carli Judice's superior striking volume and power will be too much for Nicolle Caliari.\n- Judice lands 11.18 SLpM with 0.47 KD avg. Caliari lands 3.85 SLpM with 0 KD avg.\n- Judice's 68\" reach advantage (vs 62\") allows her to dictate striking distance.\n- Judice's 70% TDD is solid, preventing Caliari from relying solely on grappling.\n- Caliari absorbs 5.57 SLpM, indicating vulnerability to Judice's high volume.\nConclusion: Judice will overwhelm Caliari with strikes and secure a KO/TKO finish.",
+    "moneyline_odds": {
+      "Carli Judice": "-250"
+    },
+    "method_odds": {
+      "KO/TKO": "-150"
+    }
+  }
+]

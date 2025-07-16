@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>mmaverse.ai</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="src/css/styles.css">
+  <style>
+    body, html {
+      font-family: 'Montserrat', Arial, Helvetica, sans-serif !important;
+    }
+    header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      padding-top: 1.5rem;
+      padding-bottom: 1rem;
+    }
+    .header-logo-title {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+    }
+    .header-logo-title img {
+      height: 56px;
+      width: 56px;
+      object-fit: contain;
+      background: none;
+    }
+    .header-logo-title h1 {
+      font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+      font-weight: 700;
+      font-size: 2.2rem;
+      margin: 0;
+      text-transform: lowercase;
+      letter-spacing: 0.02em;
+    }
+    .auth-container {
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-logo-title">
+      <img src="src/assets/images/mmaverse.png" alt="mmaverse.ai logo" />
+      <h1>mmaverse.ai</h1>
+    </div>
+    <div id="auth-container" class="auth-container">
+      <button onclick="showAuthModal()" class="auth-btn">Login</button>
+      <button onclick="showAuthModal('signup')" class="auth-btn secondary">Sign Up</button>
+      <button id="profile-btn" class="auth-btn" style="display:none;" onclick="showProfileModal()">
+        <img src="src/assets/icons/profile.png" alt="Profile Icon" style="width:20px;height:20px;margin-right:7px;vertical-align:middle;" />
+        <span>Profile</span>
+      </button>
+    </div>
+  </header>
+  <nav class="topnav">
+    <button id="nav-events" class="nav-btn active">
+      <img src="src/assets/icons/events.png" alt="Events Icon" style="width:20px;height:20px;margin-right:7px;vertical-align:middle;" />
+      <span>Events</span>
+    </button>
+    <button id="nav-rankings" class="nav-btn">
+      <img src="src/assets/icons/rankings.png" alt="Rankings Icon" style="width:20px;height:20px;margin-right:7px;vertical-align:middle;" />
+      <span>Rankings</span>
+    </button>
+    <button id="nav-ai-analysis" class="nav-btn">
+      <img src="src/assets/icons/ai.png" alt="AI Analysis Icon" style="width:20px;height:20px;margin-right:7px;vertical-align:middle;" />
+      <span>AI Analysis</span>
+    </button>
+    <button id="nav-chatroom" class="nav-btn">
+      <img src="src/assets/icons/chatroom.png" alt="Chatroom Icon" style="width:20px;height:20px;margin-right:7px;vertical-align:middle;" />
+      <span>Chatroom</span>
+    </button>
+  </nav>
+  <div class="container">
+    <main>
+      <div id="events-root"></div>
+      <div id="rankings-root" style="display:none;"></div>
+      <div id="ai-analysis-root" style="display:none;"></div>
+      <div id="chatroom-root" style="display:none;"></div>
+    </main>
+    <aside class="sidebar">
+      <h3>Upcoming Events</h3>
+      <div id="events-sidebar"></div>
+    </aside>
+  </div>
+  
+  <!-- Fighter Details Modal -->
+  <div id="fighter-modal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <div id="fighter-details" class="fighter-details"></div>
+    </div>
+  </div>
+  <div id="rankings-modal" class="rankings-modal">
+    <div class="rankings-modal-content">
+      <span class="rankings-modal-close">&times;</span>
+      <div id="rankings-modal-body"></div>
+    </div>
+  </div>
+  
+  <!-- Auth Modal -->
+  <div id="auth-modal" class="modal">
+    <div class="modal-content auth-modal-content">
+      <span class="close" id="auth-modal-close">&times;</span>
+      <div id="auth-modal-body">
+        <div id="login-form" class="auth-form">
+          <h3>Login</h3>
+          <input type="email" id="login-email" placeholder="Email" required>
+          <input type="password" id="login-password" placeholder="Password" required>
+          <button onclick="handleLogin()" class="auth-btn">Login</button>
+          <button onclick="switchAuthForm('signup')" class="auth-btn secondary">Sign Up</button>
+        </div>
+        
+        <div id="signup-form" class="auth-form" style="display: none;">
+          <h3>Create Account</h3>
+          <input type="text" id="signup-username" placeholder="Username (letters/numbers, min 5)" required>
+          <input type="email" id="signup-email" placeholder="Email" required>
+          <input type="password" id="signup-password" placeholder="Password (min 6, 1 number/symbol)" required>
+          <button onclick="handleSignup()" class="auth-btn">Sign Up</button>
+          <button onclick="switchAuthForm('login')" class="auth-btn secondary">Back to Login</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Profile Modal -->
+  <div id="profile-modal" class="modal">
+    <div class="modal-content auth-modal-content">
+      <span class="close" id="profile-modal-close">&times;</span>
+      <div id="profile-modal-body">
+        <h3>Your Profile</h3>
+        <div id="profile-username" style="margin-bottom:1.5rem;"></div>
+        <button onclick="signOut()" class="auth-btn">Sign Out</button>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Notification Container -->
+  <div id="notification-container" class="notification-container"></div>
+  
+  <script src="https://unpkg.com/@supabase/supabase-js@2"></script>
+  <script src="src/js/supabase-config.js"></script>
+  <script src="src/js/script.js"></script>
+</body>
+</html> 
